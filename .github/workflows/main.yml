@@ -23,7 +23,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Translate
         env: 
-          ocp_opim_key:${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
+          ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
         run: |
           $header = @{"Ocp-Apim-Subscription-Key"=$env:ocp_opim_key; "Content-type"="Application/json; charset=UTF-8"}
           $lines = Get-Content -LiteralPath "src\webpart\src\webparts\common\loc\en-us.ts" -Encoding UTF8
