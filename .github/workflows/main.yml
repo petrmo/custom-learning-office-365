@@ -21,7 +21,30 @@ jobs:
       - name: Checkout branch
         run: git checkout translate
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Translate
+        env: 
+          ocp_opim_key:${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          $header = @{"Ocp-Apim-Subscription-Key"=$env:ocp_opim_key; "Content-type"="Application/json; charset=UTF-8"}
+          $lines = Get-Content -LiteralPath "src\webpart\src\webparts\common\loc\en-us.ts" -Encoding UTF8
+          
+          for($i = 0; $i -lt $lines.Length; $i++ )
+          {
+            $line = $lines[$i]
+            if ($line -match "(.+): `"(.+)`"")
+            {
+                  $text = $matches[1]
+                  $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body "[{'Text':'$text'}]" -Headers $header
+                  $line = $line.Replace($text, $translate[0].translations[0].text) + " //originalEnglish:$text"
+              }
+
+              $line >> "src\webpart\src\webparts\common\loc\cs-cz.ts"
+          }
+      - name: Commit
+        run: |
+          git add --all
+          git commit -m "Translations"
+          
+          
+
+          
