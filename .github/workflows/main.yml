@@ -33,7 +33,7 @@ jobs:
             $line = $lines[$i]
             if ($line -match "(.+): `"(.+)`"")
             {
-                  $text = $matches[1]
+                  $text = $matches[2]
                   $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body "[{'Text':'$text'}]" -Headers $header
                   $line = $line.Replace($text, $translate[0].translations[0].text) + " //originalEnglish:$text"
               }
@@ -47,6 +47,28 @@ jobs:
           git add --all
           git commit -m "Translations"
           git push
+      
+      - name: GitHub Pull Request Action
+        uses: repo-sync/pull-request@v2.6
+        with:
+          # Branch name to pull from, default is triggered branch
+          source_branch: translate
+          # Branch name to sync to in this repo, default is master
+          destination_branch: main
+          # Pull request title
+          pr_title: Review the translations
+          # Pull request reviewers, comma-separated list (no spaces)
+          pr_reviewer: petrmo
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          
+  acceptPR:
+    needs: translate
+    runs-on: windows-latest
+    environment: Repo
+    steps:
+      - name: MergePR
+        run: echo "Just merging if really merging"
+      
           
           
 
