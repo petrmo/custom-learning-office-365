@@ -30,12 +30,13 @@ jobs:
           
           for($i = 0; $i -lt $lines.Length; $i++ )
           {
-            $line = $lines[$i]
-            if ($line -match "(.+): `"(.+)`"")
-            {
+              $line = $lines[$i]
+              if ($line -match "(.+): `"(.+)`"")
+              {
                   $text = $matches[2]
-                  $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body "[{'Text':'$text'}]" -Headers $header
-                  $line = $line.Replace($text, $translate[0].translations[0].text) + " //originalEnglish:$text"
+                  $body = ConvertTo-Json @(@{"Text"=$text})
+                  $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body $body -Headers $header
+                  $line = $line.Replace('"' + $text + '"','"' + $translate[0].translations[0].text + '"') + " //originalEnglish:$text"
               }
 
               $line >> "src\webpart\src\webparts\common\loc\cs-cz.ts"
