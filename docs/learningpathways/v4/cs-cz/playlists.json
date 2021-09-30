@@ -1,7 +1,7 @@
 [
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
-    "Title": "Six Simple Steps - Welcome to Microsoft 365",
+    "Title": "CZ: Six Simple Steps - Welcome to Microsoft 365",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -9,7 +9,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Learn how to get started quickly with Microsoft 365 with six simple steps",
+    "Description": "CZ: Learn how to get started quickly with Microsoft 365 with six simple steps",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -24,7 +24,7 @@
   },
   {
     "Id": "bb92e79e-fe45-4f82-83ab-704b75bb6223",
-    "Title": "Get started with Teams",
+    "Title": "CZ: Get started with Teams",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -32,7 +32,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-    "Description": "Get started with Teams with seven simple steps. After an overview of teams, channels, and how you can work and collaborate all in one place, learn how to get your team up and running, work in channels, upload and share files, start and pin chats, join a Teams meeting, and manage meetings.",
+    "Description": "CZ: Get started with Teams with seven simple steps. After an overview of teams, channels, and how you can work and collaborate all in one place, learn how to get your team up and running, work in channels, upload and share files, start and pin chats, join a Teams meeting, and manage meetings.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -47,7 +47,7 @@
   },
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
-    "Title": "Create a chat-based workspace with Teams",
+    "Title": "CZ: Create a chat-based workspace with Teams",
     "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -55,7 +55,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "When you have a place to create and make decisions as a team, there’s no limit to what you can achieve. Learn how to use Teams to bring everything together in a shared workspace where you can chat, meet, share files, and work with business apps.",
+    "Description": "CZ: When you have a place to create and make decisions as a team, there’s no limit to what you can achieve. Learn how to use Teams to bring everything together in a shared workspace where you can chat, meet, share files, and work with business apps.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -70,7 +70,7 @@
   },
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
-    "Title": "Create impactful content together",
+    "Title": "CZ: Create impactful content together",
     "Image": "images/playlists/create_impactful_content_together.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -78,7 +78,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Get things done from virtually anywhere, faster. Learn how to take advantage of the Office integration with OneDrive and SharePoint to access, share, and coauthor documents.",
+    "Description": "CZ: Get things done from virtually anywhere, faster. Learn how to take advantage of the Office integration with OneDrive and SharePoint to access, share, and coauthor documents.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -93,7 +93,7 @@
   },
   {
     "Id": "2ab5e51a-67b9-44af-9ca6-de681329f813",
-    "Title": "Save and share files with OneDrive",
+    "Title": "CZ: Save and share files with OneDrive",
     "Image": "images/playlists/save_and_share_files_with_onedrive.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -101,7 +101,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Learn how to use OneDrive to share Microsoft Office documents, other files, and entire folders with people. The files and folders you store in OneDrive are private until you decide to share them and you can stop sharing at any time.",
+    "Description": "CZ: Learn how to use OneDrive to share Microsoft Office documents, other files, and entire folders with people. The files and folders you store in OneDrive are private until you decide to share them and you can stop sharing at any time.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -118,7 +118,7 @@
   },
   {
     "Id": "a40ae370-557f-4a5b-9b17-3d14bbb6893e",
-    "Title": "Share sites and content with SharePoint",
+    "Title": "CZ: Share sites and content with SharePoint",
     "Image": "images/playlists/share_sites_and_content_with_sharepoint.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -126,7 +126,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "SharePoint powers sharing and collaboration on the intranet. Learn how to manage and share files or folders—within team sites or intranet sites, and inside or outside your organization.",
+    "Description": "CZ: SharePoint powers sharing and collaboration on the intranet. Learn how to manage and share files or folders—within team sites or intranet sites, and inside or outside your organization.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -140,7 +140,7 @@
   },
   {
     "Id": "1bb00cc3-21a5-432d-b535-4b970feb332c",
-    "Title": "Connect your organization with Yammer",
+    "Title": "CZ: Connect your organization with Yammer",
     "Image": "images/playlists/connect_your_organization_with_yammer.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -148,7 +148,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-    "Description": "Yammer enables connections to people and information from across your organization that you never knew existed. Learn how to use Yammer to discuss ideas, share updates, and crowdsource answers from coworkers from anywhere.",
+    "Description": "CZ: Yammer enables connections to people and information from across your organization that you never knew existed. Learn how to use Yammer to discuss ideas, share updates, and crowdsource answers from coworkers from anywhere.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -163,7 +163,7 @@
   },
   {
     "Id": "19a310b9-b50c-44ae-96e2-b30f17a38528",
-    "Title": "Run effective meetings",
+    "Title": "CZ: Run effective meetings",
     "Image": "images/playlists/hybrid_eff_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -171,7 +171,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Learn how to plan and lead effective hybrid meetings. Learn what to do before, during and after meetings, how to engage an audience and reduce meeting fatigue.",
+    "Description": "CZ: Learn how to plan and lead effective hybrid meetings. Learn what to do before, during and after meetings, how to engage an audience and reduce meeting fatigue.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -188,7 +188,7 @@
   },
   {
     "Id": "3cbbe474-ef4d-4154-aeb1-9a01d51764d4",
-    "Title": "Create inclusive meeting environments",
+    "Title": "CZ: Create inclusive meeting environments",
     "Image": "images/playlists/hybrid_incl_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -196,7 +196,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Learn how to create inclusie meeting environments, make meetings and related content accessible for all. Limit distractions in meetings and build empathy across time zone.",
+    "Description": "CZ: Learn how to create inclusie meeting environments, make meetings and related content accessible for all. Limit distractions in meetings and build empathy across time zone.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -208,7 +208,7 @@
   },
   {
     "Id": "fdaae787-a991-40ae-ad83-87f05c8cf8ea",
-    "Title": "Asynchronous collaboration and co-authoring",
+    "Title": "CZ: Asynchronous collaboration and co-authoring",
     "Image": "images/playlists/hybrid_async_collab.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -216,7 +216,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Learn how to reduce or replace meetings with asynchronous collaboration. Collaborate and co-author shared content. Collaborate in Teams, SharePoint, and OneDrive.",
+    "Description": "CZ: Learn how to reduce or replace meetings with asynchronous collaboration. Collaborate and co-author shared content. Collaborate in Teams, SharePoint, and OneDrive.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -233,7 +233,7 @@
   },
   {
     "Id": "6f3bbc71-627d-4427-9635-6aadd0a203f9",
-    "Title": "Reach large audiences with live events",
+    "Title": "CZ: Reach large audiences with live events",
     "Image": "images/playlists/hybrid_live_events.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -241,7 +241,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Learn how to use Microsoft Teams for live events. Organize a live event in the new Yammer. Schedule a live event in Yammer using Teams.",
+    "Description": "CZ: Learn how to use Microsoft Teams for live events. Organize a live event in the new Yammer. Schedule a live event in Yammer using Teams.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -254,7 +254,7 @@
   },
   {
     "Id": "285da770-2eb7-41ca-b403-c782ac69cd5d",
-    "Title": "Stay well",
+    "Title": "CZ: Stay well",
     "Image": "images/playlists/hybrid_stay_well.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -262,7 +262,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Learn how to practice self-care for your personal well-being. Block your calendar for meals, breaks, and movement. Set boundaries by setting your status in Microsoft Teams to indicate free or busy. Connect with others through a Teams channel for ongoing social work or work-related conversations. Manage notifications in Teams to determine how, when, and where your notifications appear. Turn on Focus assist in Windows 10 to avoid distractions when you need to stay focused.",
+    "Description": "CZ: Learn how to practice self-care for your personal well-being. Block your calendar for meals, breaks, and movement. Set boundaries by setting your status in Microsoft Teams to indicate free or busy. Connect with others through a Teams channel for ongoing social work or work-related conversations. Manage notifications in Teams to determine how, when, and where your notifications appear. Turn on Focus assist in Windows 10 to avoid distractions when you need to stay focused.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -276,7 +276,7 @@
   },
   {
     "Id": "21f572e7-98eb-49f3-9ff0-a9dc8eed583a",
-    "Title": "Stay connected",
+    "Title": "CZ: Stay connected",
     "Image": "images/playlists/hybrid_stay_connect.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -284,7 +284,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Social capital and other measures of social connection are associated with better health and job satisfaction. To stay connected in a hybrid workplace, learn how to create social channels using Teams meetings and chat to host small group lunches, social hours, and other casual spaces that can mimic the “water cooler” in the office regardless of work location. Keep regularly scheduled 1:1s and consider splitting one 1:1 meeting into 2 shorter meetings throughout the week. Channel conversations in Teams are also a great way to keep the whole team in the know.",
+    "Description": "CZ: Social capital and other measures of social connection are associated with better health and job satisfaction. To stay connected in a hybrid workplace, learn how to create social channels using Teams meetings and chat to host small group lunches, social hours, and other casual spaces that can mimic the “water cooler” in the office regardless of work location. Keep regularly scheduled 1:1s and consider splitting one 1:1 meeting into 2 shorter meetings throughout the week. Channel conversations in Teams are also a great way to keep the whole team in the know.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -295,7 +295,7 @@
   },
   {
     "Id": "8bbe76ed-6ac6-41a4-a253-3dd680cc15ef",
-    "Title": "Stay productive",
+    "Title": "CZ: Stay productive",
     "Image": "images/playlists/hybrid_stay_productive.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -303,7 +303,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-    "Description": "Set up your physical and virtual workspace for productivity. Learn which tasks and meeting types are better for hybrid work or in-person work so that you can plan your schedule ahead of time. Create focus time in Teams, set quiet hours and quiet days, and set a status message in Teams. For team productivity, decide which days are best for in-person meetings and what type of work can be done remotely. Also decide when meetings (in person or remote) are necessary and when are they optional.",
+    "Description": "CZ: Set up your physical and virtual workspace for productivity. Learn which tasks and meeting types are better for hybrid work or in-person work so that you can plan your schedule ahead of time. Create focus time in Teams, set quiet hours and quiet days, and set a status message in Teams. For team productivity, decide which days are best for in-person meetings and what type of work can be done remotely. Also decide when meetings (in person or remote) are necessary and when are they optional.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -313,7 +313,7 @@
   },
   {
     "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
-    "Title": "Use Microsoft 365 across your work and devices",
+    "Title": "CZ: Use Microsoft 365 across your work and devices",
     "Image": "images/playlists/use_across_devices.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -321,7 +321,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Microsoft 365 and the power of the cloud make it easy for you to work in new and more productive ways, from anywhere, on any device.",
+    "Description": "CZ: Microsoft 365 and the power of the cloud make it easy for you to work in new and more productive ways, from anywhere, on any device.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -338,7 +338,7 @@
   },
   {
     "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
-    "Title": "Use Microsoft 365 across your team",
+    "Title": "CZ: Use Microsoft 365 across your team",
     "Image": "images/playlists/use_across_team.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -346,7 +346,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "How teams connect and exchange information is evolving. People expect to collaborate with teammates, wherever they are located.",
+    "Description": "CZ: How teams connect and exchange information is evolving. People expect to collaborate with teammates, wherever they are located.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -359,7 +359,7 @@
   },
   {
     "Id": "cb4effb6-f78e-444a-98b7-6274ad2fe70c",
-    "Title": "Use Microsoft 365 across your organization",
+    "Title": "CZ: Use Microsoft 365 across your organization",
     "Image": "images/playlists/use_across_org.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -367,7 +367,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Use Microsoft 365 across your organization",
+    "Description": "CZ: Use Microsoft 365 across your organization",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -378,7 +378,7 @@
   },
   {
     "Id": "1f5ec8e6-5fef-481a-ad87-59842c3d539b",
-    "Title": "Day in your digital life with Office 365",
+    "Title": "CZ: Day in your digital life with Office 365",
     "Image": "images/playlists/digital_day.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -386,7 +386,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Discover new ways to simplify your workday with Office365",
+    "Description": "CZ: Discover new ways to simplify your workday with Office365",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -401,7 +401,7 @@
   },
   {
     "Id": "e51271b2-b4c0-4038-aa97-e4498c953afe",
-    "Title": "Cybersecurity fundamentals",
+    "Title": "CZ: Cybersecurity fundamentals",
     "Image": "images/playlists/LP-security-security-at-work.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -409,7 +409,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-    "Description": "Keep your computer secure at work, learn about multi-factor authentication, firewall and network protection in Windows security, and prevent changes to security settings with Tamper Protection.",
+    "Description": "CZ: Keep your computer secure at work, learn about multi-factor authentication, firewall and network protection in Windows security, and prevent changes to security settings with Tamper Protection.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -421,7 +421,7 @@
   },
   {
     "Id": "72863bbc-46ae-41dc-885d-0edb0a8abaa4",
-    "Title": "Digital safety",
+    "Title": "CZ: Digital safety",
     "Image": "images/playlists/LP-security-security-at-home.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -429,7 +429,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-    "Description": "Get tips to keep your data safe and help protect your family online with Windows Security.",
+    "Description": "CZ: Get tips to keep your data safe and help protect your family online with Windows Security.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -440,7 +440,7 @@
   },
   {
     "Id": "5872570a-e8a6-4d84-8802-4dd053b4dabc",
-    "Title": "Top threats",
+    "Title": "CZ: Top threats",
     "Image": "images/playlists/LP-security-5-simple-steps.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -448,7 +448,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-    "Description": "Protect yourself from phishing, avoid tech support scams, stay protected with Windows security and work from home more securely.",
+    "Description": "CZ: Protect yourself from phishing, avoid tech support scams, stay protected with Windows security and work from home more securely.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -460,7 +460,7 @@
   },
   {
     "Id": "35f25052-fa93-4daf-8d2e-b29935a002d0",
-    "Title": "Work remotely with Microsoft 365",
+    "Title": "CZ: Work remotely with Microsoft 365",
     "Image": "images/playlists/work_remotely_with_o365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -468,7 +468,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Microsoft Teams and Office 365 help you get work done—with others and on your own—wherever you are today.",
+    "Description": "CZ: Microsoft Teams and Office 365 help you get work done—with others and on your own—wherever you are today.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -481,7 +481,7 @@
   },
   {
     "Id": "b7fa7e0e-2282-48d3-8010-3b28d5dc3d04",
-    "Title": "Best practices for collaborating with Microsoft 365",
+    "Title": "CZ: Best practices for collaborating with Microsoft 365",
     "Image": "images/playlists/best_practices_collaborating.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -489,7 +489,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Do your best work together. With Office 365, you can collaborate with anyone, anywhere.",
+    "Description": "CZ: Do your best work together. With Office 365, you can collaborate with anyone, anywhere.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -503,7 +503,7 @@
   },
   {
     "Id": "d59b1053-3756-4d9f-82a8-0ac97b11529c",
-    "Title": "Access Quick Start",
+    "Title": "CZ: Access Quick Start",
     "Image": "images/playlists/access-quick-start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -511,7 +511,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "With Access, you can build a database without writing code or being a database expert",
+    "Description": "CZ: With Access, you can build a database without writing code or being a database expert",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -523,7 +523,7 @@
   },
   {
     "Id": "3c376578-f821-4184-9365-75011c163f68",
-    "Title": "Intro to Access",
+    "Title": "CZ: Intro to Access",
     "Image": "images/playlists/access-intro-to-access.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -531,7 +531,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "With Access, you can build a database without writing code or being a database expert.",
+    "Description": "CZ: With Access, you can build a database without writing code or being a database expert.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -542,7 +542,7 @@
   },
   {
     "Id": "e112c3e9-685f-41a0-abb5-718ee4f43bb5",
-    "Title": "Create an Access database",
+    "Title": "CZ: Create an Access database",
     "Image": "images/playlists/access-create-an-access-database.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -550,7 +550,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "To create a desktop database quickly, use one of the many templates provided with Access. Or, if you don’t find a template that meets your needs, create a database from scratch.",
+    "Description": "CZ: To create a desktop database quickly, use one of the many templates provided with Access. Or, if you don’t find a template that meets your needs, create a database from scratch.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -560,7 +560,7 @@
   },
   {
     "Id": "91128a67-3846-4a87-98c5-de91402260eb",
-    "Title": "Add tables",
+    "Title": "CZ: Add tables",
     "Image": "images/playlists/access-add-tables.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -568,7 +568,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Learn how to build tables and set data types",
+    "Description": "CZ: Learn how to build tables and set data types",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -578,7 +578,7 @@
   },
   {
     "Id": "6649c605-0d13-4420-9282-3fa590c2fbc4",
-    "Title": "Use relationships",
+    "Title": "CZ: Use relationships",
     "Image": "images/playlists/access-use-relations.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -586,7 +586,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Once you have tables in your database, learn how to build relationships between them.",
+    "Description": "CZ: Once you have tables in your database, learn how to build relationships between them.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -599,7 +599,7 @@
   },
   {
     "Id": "56aba6b0-660b-4f8c-a7d8-9b1ad7593bb4",
-    "Title": "Add and edit data",
+    "Title": "CZ: Add and edit data",
     "Image": "images/playlists/access-add-and-edit-data.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -607,7 +607,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "If your list is getting hard to manage in Excel, it’s a good idea to move it into Access so you can take advantage of its querying and reporting features.",
+    "Description": "CZ: If your list is getting hard to manage in Excel, it’s a good idea to move it into Access so you can take advantage of its querying and reporting features.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -617,7 +617,7 @@
   },
   {
     "Id": "b16495f6-4216-4eed-b208-7280a885ebbf",
-    "Title": "Manage data with queries",
+    "Title": "CZ: Manage data with queries",
     "Image": "images/playlists/access-manage-data-with-queries.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -625,7 +625,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Use queries to answer business or other questions based on data and to quickly and easily make bulk updates or to delete information from the database.",
+    "Description": "CZ: Use queries to answer business or other questions based on data and to quickly and easily make bulk updates or to delete information from the database.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -638,7 +638,7 @@
   },
   {
     "Id": "4eb4ff40-6b3f-45a7-ade9-f879a79e70f9",
-    "Title": "Create forms",
+    "Title": "CZ: Create forms",
     "Image": "images/playlists/access-create-forms.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -646,7 +646,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "If you often use the same set of forms and reports, create a navigation form that groups them together.",
+    "Description": "CZ: If you often use the same set of forms and reports, create a navigation form that groups them together.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -655,7 +655,7 @@
   },
   {
     "Id": "8580d541-b2ba-4ae2-bd06-ec26ebc59485",
-    "Title": "Create reports",
+    "Title": "CZ: Create reports",
     "Image": "images/playlists/access-create-reports.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -663,7 +663,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Before you share your database with others, put the information in a format that’s easy to understand. View, format, and summarize the information in your database with reports.",
+    "Description": "CZ: Before you share your database with others, put the information in a format that’s easy to understand. View, format, and summarize the information in your database with reports.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -673,7 +673,7 @@
   },
   {
     "Id": "82c6b011-7190-412e-9d3e-6410eae0d752",
-    "Title": "Protect databases",
+    "Title": "CZ: Protect databases",
     "Image": "images/playlists/access-protect-databases.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -681,7 +681,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Learn to creating backup copies of your desktop database to recover your vital data when the Undo command isn’t enough to fix a mistake, restore a missing object, or untangle corrupted data.",
+    "Description": "CZ: Learn to creating backup copies of your desktop database to recover your vital data when the Undo command isn’t enough to fix a mistake, restore a missing object, or untangle corrupted data.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -690,7 +690,7 @@
   },
   {
     "Id": "2aa461ea-18f5-47d4-a29c-e63fda70f75b",
-    "Title": "Create Charts",
+    "Title": "CZ: Create Charts",
     "Image": "images/playlists/access-add-text-and-pictures.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -698,7 +698,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "175c2d96-040d-4275-9405-b4549bd63dee",
-    "Description": "Learn how to create Access charts, including column, bar, line, pie and combine chars.",
+    "Description": "CZ: Learn how to create Access charts, including column, bar, line, pie and combine chars.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -711,7 +711,7 @@
   },
   {
     "Id": "fbf60a54-6a6c-4c6d-a121-c478f9531a98",
-    "Title": "Microsoft 365 Accessibility Overview and Resources",
+    "Title": "CZ: Microsoft 365 Accessibility Overview and Resources",
     "Image": "images/playlists/microsoft-365-accessiblitiy-overview-and-resources.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -719,7 +719,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-    "Description": "Before sending your email message or sharing your document or spreadsheet, run the Accessibility Checker to make sure your Microsoft Office content is easy for people of all abilities to read and edit.",
+    "Description": "CZ: Before sending your email message or sharing your document or spreadsheet, run the Accessibility Checker to make sure your Microsoft Office content is easy for people of all abilities to read and edit.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -730,7 +730,7 @@
   },
   {
     "Id": "cf352e8f-caf6-4e52-86d5-ae218004e089",
-    "Title": "Create more accessible email messages in Outlook",
+    "Title": "CZ: Create more accessible email messages in Outlook",
     "Image": "images/playlists/create-more-accessible-emails-in-outlook.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -738,7 +738,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-    "Description": "Create more accessible email messages in Outlook",
+    "Description": "CZ: Create more accessible email messages in Outlook",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -749,7 +749,7 @@
   },
   {
     "Id": "76253e80-b36d-479a-9267-e73f2b5a8600",
-    "Title": "Create more accessible Word documents",
+    "Title": "CZ: Create more accessible Word documents",
     "Image": "images/playlists/create-more-accessible-word-documents.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -757,7 +757,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-    "Description": "Create more accessible Word documents",
+    "Description": "CZ: Create more accessible Word documents",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -772,7 +772,7 @@
   },
   {
     "Id": "c4d3a610-6289-4979-b0b6-b679ef28c13b",
-    "Title": "Create more accessible Excel workbooks",
+    "Title": "CZ: Create more accessible Excel workbooks",
     "Image": "images/playlists/create-more-accessible-excel-spread-sheets.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -780,7 +780,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-    "Description": "Create more accessible Excel workbooks",
+    "Description": "CZ: Create more accessible Excel workbooks",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -791,7 +791,7 @@
   },
   {
     "Id": "776fc7e7-cd09-4968-887f-cc04e8558b9e",
-    "Title": "Create more accessible slides in PowerPoint",
+    "Title": "CZ: Create more accessible slides in PowerPoint",
     "Image": "images/playlists/create-more-accessible-slides.in-powerpoint.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -799,7 +799,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-    "Description": "Learn how to put content in your PowerPoint slides to make it accessible to all",
+    "Description": "CZ: Learn how to put content in your PowerPoint slides to make it accessible to all",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -812,7 +812,7 @@
   },
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick Start",
+    "Title": "CZ: Excel Quick Start",
     "Image": "images/playlists/excel_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -820,7 +820,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Get started quickly with the Excel Quick Start guide. Learn how to create a workbook, enter data, save your workbook to OneDrive, automatically fill a column with Flash Fill, quickly calculate with AutoSum, create a chart, or use conditional formatting with Quick Analysis, freeze the top row, share your workbook to collaborate with others, and set up your mobile apps.",
+    "Description": "CZ: Get started quickly with the Excel Quick Start guide. Learn how to create a workbook, enter data, save your workbook to OneDrive, automatically fill a column with Flash Fill, quickly calculate with AutoSum, create a chart, or use conditional formatting with Quick Analysis, freeze the top row, share your workbook to collaborate with others, and set up your mobile apps.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -833,7 +833,7 @@
   },
   {
     "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
-    "Title": "Intro to Excel",
+    "Title": "CZ: Intro to Excel",
     "Image": "images/playlists/welcome_to_excel.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -841,7 +841,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Create a new workbook or insert a worksheet. Learn how to use Excel as your calculator or autofill data in cells.",
+    "Description": "CZ: Create a new workbook or insert a worksheet. Learn how to use Excel as your calculator or autofill data in cells.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -856,7 +856,7 @@
   },
   {
     "Id": "7450f58a-517f-48ae-bace-248346e52275",
-    "Title": "Rows & columns",
+    "Title": "CZ: Rows & columns",
     "Image": "images/playlists/rows_and_columns.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -864,7 +864,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Add columns, rows, or cells to an Excel worksheet or delete them. Freeze panes, hide or show rows and columns or filter for unique values.",
+    "Description": "CZ: Add columns, rows, or cells to an Excel worksheet or delete them. Freeze panes, hide or show rows and columns or filter for unique values.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -879,7 +879,7 @@
   },
   {
     "Id": "59b01879-ea2a-4f76-b2e4-e437fc45c61d",
-    "Title": "Cells",
+    "Title": "CZ: Cells",
     "Image": "images/playlists/cells.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -887,7 +887,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Cut, Copy, and Paste to move or copy cell contents. Resize a table, column, or row, Learn how to merge cells, validate data or import/export text.",
+    "Description": "CZ: Cut, Copy, and Paste to move or copy cell contents. Resize a table, column, or row, Learn how to merge cells, validate data or import/export text.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -901,7 +901,7 @@
   },
   {
     "Id": "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
-    "Title": "Formatting",
+    "Title": "CZ: Formatting",
     "Image": "images/playlists/formatting.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -909,7 +909,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Format numbers in cells for things like currency, percentages, decimals, dates, phone numbers, or social security numbers. Set up conditional formatting, align or rotate text, or add a watermark.",
+    "Description": "CZ: Format numbers in cells for things like currency, percentages, decimals, dates, phone numbers, or social security numbers. Set up conditional formatting, align or rotate text, or add a watermark.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -925,7 +925,7 @@
   },
   {
     "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
-    "Title": "Formulas & functions",
+    "Title": "CZ: Formulas & functions",
     "Image": "images/playlists/formulas_and_functions.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -933,7 +933,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Learn how to create formulas and use built-in functions to perform calculations and solve problems. Learn to use VLOOKUP, SUM, COUNTIF, IF and more.",
+    "Description": "CZ: Learn how to create formulas and use built-in functions to perform calculations and solve problems. Learn to use VLOOKUP, SUM, COUNTIF, IF and more.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -951,7 +951,7 @@
   },
   {
     "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
-    "Title": "Tables",
+    "Title": "CZ: Tables",
     "Image": "images/playlists/tables.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -959,7 +959,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Learn how to create and format tables, sort data, and filter data in a table. Discover how to total data in a table or use slicers to filter data.",
+    "Description": "CZ: Learn how to create and format tables, sort data, and filter data in a table. Discover how to total data in a table or use slicers to filter data.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -972,7 +972,7 @@
   },
   {
     "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
-    "Title": "Charts",
+    "Title": "CZ: Charts",
     "Image": "images/playlists/charts.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -980,7 +980,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Charts help you visualize your data in a way that creates maximum impact on your audience. Learn to create a chart, add a trendline, analyze data instantly or update an existing chart.",
+    "Description": "CZ: Charts help you visualize your data in a way that creates maximum impact on your audience. Learn to create a chart, add a trendline, analyze data instantly or update an existing chart.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -997,7 +997,7 @@
   },
   {
     "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
-    "Title": "PivotTables",
+    "Title": "CZ: PivotTables",
     "Image": "images/playlists/pivottables.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1005,7 +1005,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Excel PivotTables are a powerful tool to calculate, summarize, and analyze data and see comparisons, patterns, and trends in your data. Learn how to create a PivotTable to analyze worksheets, tables, and ranges, use the Field List to arrange fields, group or ungroup data, sort data, filter data, and create a PivotChart.",
+    "Description": "CZ: Excel PivotTables are a powerful tool to calculate, summarize, and analyze data and see comparisons, patterns, and trends in your data. Learn how to create a PivotTable to analyze worksheets, tables, and ranges, use the Field List to arrange fields, group or ungroup data, sort data, filter data, and create a PivotChart.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1018,7 +1018,7 @@
   },
   {
     "Id": "3ee48085-019d-4256-9ad5-c2d03c82238c",
-    "Title": "Share and co-author",
+    "Title": "CZ: Share and co-author",
     "Image": "images/playlists/excel_share_and_co-author.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1026,7 +1026,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Learn how to share a workbook with others, right within Excel. You can let them edit the workbook or just view it. Also learn how to lock or unlock specific areas, protect an Excel file, or save to PDF.",
+    "Description": "CZ: Learn how to share a workbook with others, right within Excel. You can let them edit the workbook or just view it. Also learn how to lock or unlock specific areas, protect an Excel file, or save to PDF.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1041,7 +1041,7 @@
   },
   {
     "Id": "d4b4a842-2858-4cef-a090-51b567d90cc0",
-    "Title": "Common use of functions",
+    "Title": "CZ: Common use of functions",
     "Image": "images/playlists/excel_share_and_co-author.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1049,7 +1049,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Automatically number rows, calculate the difference between two dates, define and use names in formulas, and combine text from two or more cells in one cell.",
+    "Description": "CZ: Automatically number rows, calculate the difference between two dates, define and use names in formulas, and combine text from two or more cells in one cell.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1061,7 +1061,7 @@
   },
   {
     "Id": "ed55052f-97a3-495c-937f-273c89775b69",
-    "Title": "Linked data types",
+    "Title": "CZ: Linked data types",
     "Image": "images/playlists/excel_linked_data_types.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1069,7 +1069,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "With linked data types, you can insert and work with reliable data from trusted online data sources.",
+    "Description": "CZ: With linked data types, you can insert and work with reliable data from trusted online data sources.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1080,7 +1080,7 @@
   },
   {
     "Id": "0c7a8a54-f7fc-4464-8f21-67c961b84f7c",
-    "Title": "Get started with Lists",
+    "Title": "CZ: Get started with Lists",
     "Image": "images/playlists/lists_get_started.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1088,7 +1088,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4b40845d-fe5f-428f-8970-58455e5bf262",
-    "Description": "Track information and organize work with Microsoft Lists. Create a list from scratch, from Excel, from an existing list, or from a template.",
+    "Description": "CZ: Track information and organize work with Microsoft Lists. Create a list from scratch, from Excel, from an existing list, or from a template.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1104,7 +1104,7 @@
   },
   {
     "Id": "261009d0-8b5c-4302-bb0f-c993e1ebb51c",
-    "Title": "Microsoft 365 for business Quick Start",
+    "Title": "CZ: Microsoft 365 for business Quick Start",
     "Image": "images/playlists/office_365_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1112,7 +1112,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Learn the basics of Microsoft 365 with our tutorials that will help you Get Started, Create and Save Files, Share and Collaborate, and work with Microsoft Teams.",
+    "Description": "CZ: Learn the basics of Microsoft 365 with our tutorials that will help you Get Started, Create and Save Files, Share and Collaborate, and work with Microsoft Teams.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1126,7 +1126,7 @@
   },
   {
     "Id": "8f026372-069d-4449-a116-938bf5aae7ea",
-    "Title": "Get started with Microsoft 365",
+    "Title": "CZ: Get started with Microsoft 365",
     "Image": "images/playlists/intro_to_office.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1134,7 +1134,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Understand Microsoft 365 basics including Signing in and Getting Started at Office.com.",
+    "Description": "CZ: Understand Microsoft 365 basics including Signing in and Getting Started at Office.com.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1145,7 +1145,7 @@
   },
   {
     "Id": "f4bbc974-3e87-4e2b-a4c8-7cb1d3c35fa3",
-    "Title": "Create and save",
+    "Title": "CZ: Create and save",
     "Image": "images/playlists/create_office_files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1153,7 +1153,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Learn how to Use Desktop Apps, Use Office.com Apps, Save Files to the Cloud, and Sync Files on Demand with OneDrive.",
+    "Description": "CZ: Learn how to Use Desktop Apps, Use Office.com Apps, Save Files to the Cloud, and Sync Files on Demand with OneDrive.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1165,7 +1165,7 @@
   },
   {
     "Id": "f7fc4bc7-12f5-44bc-9bd4-c122e891061d",
-    "Title": "Share and collaborate",
+    "Title": "CZ: Share and collaborate",
     "Image": "images/playlists/store_online_and_collaborate.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1173,7 +1173,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Share files in Microsoft 365 and also learn how to Co-Author Files, Use @mentions, and Follow-ups.",
+    "Description": "CZ: Share files in Microsoft 365 and also learn how to Co-Author Files, Use @mentions, and Follow-ups.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1185,7 +1185,7 @@
   },
   {
     "Id": "fa7efdbf-ddd5-46b4-86c0-4d75b3893c85",
-    "Title": "Work with Microsoft Teams",
+    "Title": "CZ: Work with Microsoft Teams",
     "Image": "images/playlists/distribute_and_protect.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1193,7 +1193,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Work with Microsoft Teams to collaborate with your team, help your team stay organized, and have conversations – all in one place. Learn how to create teams and channels, add a tab, pin a channel, create and format a post, start and pin a chat, make calls, join a Teams meeting, and learn tips and best practices to schedule, start, and run an effective meeting.",
+    "Description": "CZ: Work with Microsoft Teams to collaborate with your team, help your team stay organized, and have conversations – all in one place. Learn how to create teams and channels, add a tab, pin a channel, create and format a post, start and pin a chat, make calls, join a Teams meeting, and learn tips and best practices to schedule, start, and run an effective meeting.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1208,7 +1208,7 @@
   },
   {
     "Id": "ffdf1665-6516-4d78-b9d3-39985b60c06b",
-    "Title": "Get the most out of Windows",
+    "Title": "CZ: Get the most out of Windows",
     "Image": "images/playlists/view_office_files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1216,7 +1216,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Get the most out of Windows by learning how to Find your Stuff in Windows 10, Use Microsoft Edge, and Search with Bing.",
+    "Description": "CZ: Get the most out of Windows by learning how to Find your Stuff in Windows 10, Use Microsoft Edge, and Search with Bing.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1227,7 +1227,7 @@
   },
   {
     "Id": "861f0286-c3b5-4a76-9b7e-77c1bf39572d",
-    "Title": "Work from anywhere",
+    "Title": "CZ: Work from anywhere",
     "Image": "images/playlists/add_and_edit_text.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1235,7 +1235,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Learn how to Work from anywhere by using the OneDrive Mobile App and the Outlook Mobile App.",
+    "Description": "CZ: Learn how to Work from anywhere by using the OneDrive Mobile App and the Outlook Mobile App.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1245,7 +1245,7 @@
   },
   {
     "Id": "477ad890-043c-4d3c-982e-40c540f10009",
-    "Title": "Cool Microsoft 365 features",
+    "Title": "CZ: Cool Microsoft 365 features",
     "Image": "images/playlists/office_365_format_text.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1253,7 +1253,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "Learn about Cool Microsoft 365 features such as PowerPoint Designer, Ideas in Excel, Editor in Word, and Making your Content Accessible.",
+    "Description": "CZ: Learn about Cool Microsoft 365 features such as PowerPoint Designer, Ideas in Excel, Editor in Word, and Making your Content Accessible.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1265,7 +1265,7 @@
   },
   {
     "Id": "77061d5e-2222-4748-ac80-7d03d2587bd3",
-    "Title": "Forms Quick Start",
+    "Title": "CZ: Forms Quick Start",
     "Image": "images/playlists/forms_quick_startx.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1273,7 +1273,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-    "Description": "Build a form in minutes. Learn how to add questions to your form, define settings, share your form, and check results in just a few easy steps!",
+    "Description": "CZ: Build a form in minutes. Learn how to add questions to your form, define settings, share your form, and check results in just a few easy steps!",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1285,7 +1285,7 @@
   },
   {
     "Id": "b873fd99-81be-483a-a8e0-16fcfe0fa120",
-    "Title": "Create a form and view results",
+    "Title": "CZ: Create a form and view results",
     "Image": "images/playlists/create_a_formx.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1293,7 +1293,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-    "Description": "Learn how to use Forms to create surveys, quizzes, and polls, and easily see results as they come in.",
+    "Description": "CZ: Learn how to use Forms to create surveys, quizzes, and polls, and easily see results as they come in.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1306,7 +1306,7 @@
   },
   {
     "Id": "fe752d83-36ae-4209-92f8-e340e9bf696e",
-    "Title": "Share and collaborate",
+    "Title": "CZ: Share and collaborate",
     "Image": "images/playlists/forms-share-collaborate.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1314,7 +1314,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-    "Description": "Learn how to collaborate with colleagues on your quizzes and forms and share your quiz or form as a template for others to use independently.",
+    "Description": "CZ: Learn how to collaborate with colleagues on your quizzes and forms and share your quiz or form as a template for others to use independently.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1329,7 +1329,7 @@
   },
   {
     "Id": "d3acd5c2-0488-4104-935a-61fda884bc49",
-    "Title": "Teams Quick Start",
+    "Title": "CZ: Teams Quick Start",
     "Image": "images/playlists/teams_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1337,7 +1337,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Get started quickly with the Microsoft Teams Quick Start guide. Learn how to sign in to Teams, pick a team and channel, chat in Teams, start a new conversation, reply to a conversation, use emojis, memes, and GIFs, share a file, collaborate with @mention, check your Activity Feed, search for messages, people, or files, and set up your mobile apps.",
+    "Description": "CZ: Get started quickly with the Microsoft Teams Quick Start guide. Learn how to sign in to Teams, pick a team and channel, chat in Teams, start a new conversation, reply to a conversation, use emojis, memes, and GIFs, share a file, collaborate with @mention, check your Activity Feed, search for messages, people, or files, and set up your mobile apps.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1350,7 +1350,7 @@
   },
   {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
-    "Title": "Intro to Microsoft Teams",
+    "Title": "CZ: Intro to Microsoft Teams",
     "Image": "images/playlists/intro_to_microsoft_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1358,7 +1358,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. With Intro to Microsoft Teams, get an overview of teams, channels, meetings, conversations, tabs, share files, collaborate real time, find files, add people to a chat, make a call, manage your calendar, schedule a meeting, join meetings, share content, record a meeting, view our activity feed, and use the command box to search for people, items, or apps.",
+    "Description": "CZ: Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. With Intro to Microsoft Teams, get an overview of teams, channels, meetings, conversations, tabs, share files, collaborate real time, find files, add people to a chat, make a call, manage your calendar, schedule a meeting, join meetings, share content, record a meeting, view our activity feed, and use the command box to search for people, items, or apps.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1367,7 +1367,7 @@
   },
   {
     "Id": "2346ff06-6646-4084-845d-2ee5971f3634",
-    "Title": "Start chats and calls",
+    "Title": "CZ: Start chats and calls",
     "Image": "images/playlists/start_chats_calls_and_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1375,7 +1375,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Start 1:1 or group chats to collaborate with a smaller group or to talk privately, and pin chats for quick access.",
+    "Description": "CZ: Start 1:1 or group chats to collaborate with a smaller group or to talk privately, and pin chats for quick access.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1387,7 +1387,7 @@
   },
   {
     "Id": "b6b28572-87d3-4c71-a565-8d4a8e18d406",
-    "Title": "Set up and customize your team",
+    "Title": "CZ: Set up and customize your team",
     "Image": "images/playlists/set_up_and_customize_your_team.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1395,7 +1395,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Use Microsoft Teams to set up and customize your team. Learn how to create a public or private team, add members to a team, create a channel, and use manage team to find members, channels, settings, and apps for your team. There’s also a go-to guide for team owners to add and remove members, add team owners, manage channels, and change team settings. You can also pin a channel and reorder your teams, to organize your teams list.",
+    "Description": "CZ: Use Microsoft Teams to set up and customize your team. Learn how to create a public or private team, add members to a team, create a channel, and use manage team to find members, channels, settings, and apps for your team. There’s also a go-to guide for team owners to add and remove members, add team owners, manage channels, and change team settings. You can also pin a channel and reorder your teams, to organize your teams list.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1406,7 +1406,7 @@
   },
   {
     "Id": "4374d7da-95a5-4e13-a14b-2e43e1277d53",
-    "Title": "Explore apps and tools",
+    "Title": "CZ: Explore apps and tools",
     "Image": "images/playlists/explore_apps_and_tools.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1414,7 +1414,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Explore apps and tools in Teams and learn how to add tools, turn a file into a tab, and use the command box.",
+    "Description": "CZ: Explore apps and tools in Teams and learn how to add tools, turn a file into a tab, and use the command box.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1426,7 +1426,7 @@
   },
   {
     "Id": "d4f4cae2-ce9a-483a-a786-93974e40b482",
-    "Title": "Collaborate in teams and channels",
+    "Title": "CZ: Collaborate in teams and channels",
     "Image": "images/playlists/collaborate_in_teams_and_channels.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1434,7 +1434,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "In Microsoft Teams, channels are where you hold meetings, have conversations, and work on files together. Learn how to create a public or private channel, pin a channel, add a tab, share a file, meet now, show and hide channels, customize channel notifications, reply to a message, like or save a message, use @mention, collaborate on or co-edit a file, start a conversation, send email to a channel, and create a plan with Planner.",
+    "Description": "CZ: In Microsoft Teams, channels are where you hold meetings, have conversations, and work on files together. Learn how to create a public or private channel, pin a channel, add a tab, share a file, meet now, show and hide channels, customize channel notifications, reply to a message, like or save a message, use @mention, collaborate on or co-edit a file, start a conversation, send email to a channel, and create a plan with Planner.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -1450,7 +1450,7 @@
   },
   {
     "Id": "7a057fc3-74eb-46ab-991d-50e2e665f95d",
-    "Title": "Work with posts and messages",
+    "Title": "CZ: Work with posts and messages",
     "Image": "images/playlists/work-with-post-and-messages.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1458,7 +1458,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to create and format a post or announcement to start a conversation in a channel.",
+    "Description": "CZ: Learn how to create and format a post or announcement to start a conversation in a channel.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1470,7 +1470,7 @@
   },
   {
     "Id": "044071b3-a780-4a24-b0b1-a4951ee48a3f",
-    "Title": "Upload and find files",
+    "Title": "CZ: Upload and find files",
     "Image": "images/playlists/upload-and-find-files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1478,7 +1478,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to upload and share files in Microsoft Teams. Also learn how to find and filter files.",
+    "Description": "CZ: Learn how to upload and share files in Microsoft Teams. Also learn how to find and filter files.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1488,7 +1488,7 @@
   },
   {
     "Id": "729bcb7f-43bc-4d38-a0df-8fbf38b80e56",
-    "Title": "Set up and attend live events",
+    "Title": "CZ: Set up and attend live events",
     "Image": "images/playlists/setup-and-attend-live-events.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1496,7 +1496,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Teams live events enables you to produce events for large online audiences with more control over video, audience interaction, and reporting",
+    "Description": "CZ: Teams live events enables you to produce events for large online audiences with more control over video, audience interaction, and reporting",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1508,7 +1508,7 @@
   },
   {
     "Id": "fae33957-cb84-4185-ab78-2bd3818b31ee",
-    "Title": "Manage Meetings",
+    "Title": "CZ: Manage Meetings",
     "Image": "images/playlists/manage_meetings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1516,7 +1516,7 @@
     "SubjectId": "615f17eb-2c5b-4494-8541-4304435ca306",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "View, schedule, and manage appointments and meetings in Microsoft Teams to keep your team on track.",
+    "Description": "CZ: View, schedule, and manage appointments and meetings in Microsoft Teams to keep your team on track.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1532,7 +1532,7 @@
   },
   {
     "Id": "2b830deb-c2f7-46b4-9c0f-eb3150a9f083",
-    "Title": "Manage your activity feed",
+    "Title": "CZ: Manage your activity feed",
     "Image": "images/playlists/manage-your-activity-feed.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1540,7 +1540,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Manage your activity feed and know everything that's happening in the team channels you follow.",
+    "Description": "CZ: Manage your activity feed and know everything that's happening in the team channels you follow.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1550,7 +1550,7 @@
   },
   {
     "Id": "90ecbd2b-a1a7-4da1-8355-c1f65c4af298",
-    "Title": "Teams on the go",
+    "Title": "CZ: Teams on the go",
     "Image": "images/playlists/teams-on-the-go.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1558,7 +1558,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Start a 1:1 or group chat in the Microsoft Teams mobile app to talk privately or collaborate with a smaller group. Create a channel, join a meeting, use your activity feed, or manage notifications on the go,",
+    "Description": "CZ: Start a 1:1 or group chat in the Microsoft Teams mobile app to talk privately or collaborate with a smaller group. Create a channel, join a meeting, use your activity feed, or manage notifications on the go,",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1571,7 +1571,7 @@
   },
   {
     "Id": "2ba46e26-5c63-48b9-818c-f49354b3b5d1",
-    "Title": "Manage team schedules with Shifts",
+    "Title": "CZ: Manage team schedules with Shifts",
     "Image": "images/playlists/teams_shifts.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1579,7 +1579,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Shifts in Microsoft Teams is a schedule management tool. Learn how to use Shifts to create, update, and manage schedules for your team.",
+    "Description": "CZ: Shifts in Microsoft Teams is a schedule management tool. Learn how to use Shifts to create, update, and manage schedules for your team.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1592,7 +1592,7 @@
   },
   {
     "Id": "a9047d0c-b690-4a43-9ad3-78ee5c1d5d7b",
-    "Title": "Walkie Talkie, Tasks, and Praise",
+    "Title": "CZ: Walkie Talkie, Tasks, and Praise",
     "Image": "images/playlists/teams_walkie.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1600,7 +1600,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to use the Walkie Talkie Teams app to turn your work phone into a simple and secure instant voice communication device, how to use the Tasks app in Teams, and how to communicate and recognize your Firstline team with Praise.",
+    "Description": "CZ: Learn how to use the Walkie Talkie Teams app to turn your work phone into a simple and secure instant voice communication device, how to use the Tasks app in Teams, and how to communicate and recognize your Firstline team with Praise.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1613,7 +1613,7 @@
   },
   {
     "Id": "634948c6-8f39-4bc4-a0ee-f42dc12b511c",
-    "Title": "Create approvals",
+    "Title": "CZ: Create approvals",
     "Image": "images/playlists/teams_approvals.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -1621,7 +1621,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "Description": "CZ: Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -1633,7 +1633,7 @@
   },
   {
     "Id": "eda0aa68-24ac-46a1-83db-e04f929be0d6",
-    "Title": "Office for the web: Get started",
+    "Title": "CZ: Office for the web: Get started",
     "Image": "images/playlists/office_for_the_web_get_started.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1641,7 +1641,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "Office.com is the best place to start, whether it's the start of the day or you're getting back to your work.",
+    "Description": "CZ: Office.com is the best place to start, whether it's the start of the day or you're getting back to your work.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1654,7 +1654,7 @@
   },
   {
     "Id": "610da080-333a-449f-9f81-21c556c0a961",
-    "Title": "Office for the web: Outlook for the web",
+    "Title": "CZ: Office for the web: Outlook for the web",
     "Image": "images/playlists/Outlook_for_the_web.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1662,7 +1662,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "Outlook on the web makes it simple to keep your email, calendar, and contacts right at your fingertips. Here are a few of the great features to use. Send messages and share files to collaborate with others.",
+    "Description": "CZ: Outlook on the web makes it simple to keep your email, calendar, and contacts right at your fingertips. Here are a few of the great features to use. Send messages and share files to collaborate with others.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1677,7 +1677,7 @@
   },
   {
     "Id": "e2fb04a4-7e0c-40ff-994b-d92c80c00df0",
-    "Title": "Office for the web: Word for the web",
+    "Title": "CZ: Office for the web: Word for the web",
     "Image": "images/playlists/word_for_the_web.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1685,7 +1685,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "With Word for the web, create documents, add text, images, and art, and share your file to work with others — no matter where you are.",
+    "Description": "CZ: With Word for the web, create documents, add text, images, and art, and share your file to work with others — no matter where you are.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1699,7 +1699,7 @@
   },
   {
     "Id": "803f7002-9bc0-4d96-a898-9770f1b8bcdf",
-    "Title": "Office for the Web: Excel for the Web",
+    "Title": "CZ: Office for the Web: Excel for the Web",
     "Image": "images/playlists/excel_for_the_web_for.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1707,7 +1707,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "Excel for the web gives you the power of Excel on any device, from almost anywhere.",
+    "Description": "CZ: Excel for the web gives you the power of Excel on any device, from almost anywhere.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1722,7 +1722,7 @@
   },
   {
     "Id": "164ee353-bb72-4e17-8bed-d7824241b341",
-    "Title": "Office for the web: PowerPoint for the web",
+    "Title": "CZ: Office for the web: PowerPoint for the web",
     "Image": "images/playlists/office_for_the_web_for.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1730,7 +1730,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "PowerPoint for the web gives you the ability to create, edit, and present presentations on any device, from almost anywhere.",
+    "Description": "CZ: PowerPoint for the web gives you the ability to create, edit, and present presentations on any device, from almost anywhere.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1744,7 +1744,7 @@
   },
   {
     "Id": "69149089-33ca-4e3c-863d-713768570323",
-    "Title": "Office for the web: Share your documents",
+    "Title": "CZ: Office for the web: Share your documents",
     "Image": "images/playlists/office_for__web_share_documents.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1752,7 +1752,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "002ce882-04af-491f-9798-71c857606532",
-    "Description": "Wherever you're working in Office 365, it's simple to share your documents.",
+    "Description": "CZ: Wherever you're working in Office 365, it's simple to share your documents.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -1764,7 +1764,7 @@
   },
   {
     "Id": "c9ecc2e9-bc17-496a-8b0b-9242b6bb3eaf",
-    "Title": "OneDrive QuickStart",
+    "Title": "CZ: OneDrive QuickStart",
     "Image": "images/playlists/onedrive_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1772,7 +1772,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "Get started quickly with the OneDrive Quick Start guide. Learn how to upload files and folders, use OneDrive in your browser or on your desktop, save and open files in your Office apps, create a file or folder, manage files and folders, search for files, back up files, share files, manage access and permissions, stop sharing, copy links, change views, collaborate in OneDrive, set up your mobile apps, and work on the go with the OneDrive app on your mobile device.",
+    "Description": "CZ: Get started quickly with the OneDrive Quick Start guide. Learn how to upload files and folders, use OneDrive in your browser or on your desktop, save and open files in your Office apps, create a file or folder, manage files and folders, search for files, back up files, share files, manage access and permissions, stop sharing, copy links, change views, collaborate in OneDrive, set up your mobile apps, and work on the go with the OneDrive app on your mobile device.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1785,7 +1785,7 @@
   },
   {
     "Id": "d6021ad3-8709-4c7f-bd74-58517dfc902e",
-    "Title": "Intro to OneDrive (work or school)",
+    "Title": "CZ: Intro to OneDrive (work or school)",
     "Image": "images/playlists/intro_to_onedrive_work_or_school.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1793,7 +1793,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "Learn about OneDrive, OneDrive basics, and set up OneDrive",
+    "Description": "CZ: Learn about OneDrive, OneDrive basics, and set up OneDrive",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1807,7 +1807,7 @@
   },
   {
     "Id": "3c24a6b8-a3d7-4133-ba59-08d705fe8160",
-    "Title": "Manage your files with OneDrive",
+    "Title": "CZ: Manage your files with OneDrive",
     "Image": "images/playlists/manage_your_files.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1815,7 +1815,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "Access files and folders anywhere with OneDrive",
+    "Description": "CZ: Access files and folders anywhere with OneDrive",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1829,7 +1829,7 @@
   },
   {
     "Id": "f007841f-fde2-463c-8043-035084c00ba5",
-    "Title": "Share and Sync with OneDrive",
+    "Title": "CZ: Share and Sync with OneDrive",
     "Image": "images/playlists/onedrive_share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1837,7 +1837,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "Use OneDrive to share files, control viewing and editing, and work together at the same time",
+    "Description": "CZ: Use OneDrive to share files, control viewing and editing, and work together at the same time",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1848,7 +1848,7 @@
   },
   {
     "Id": "a324d70a-4727-43e3-b78a-be93092d3dd0",
-    "Title": "OneNote Quick Start",
+    "Title": "CZ: OneNote Quick Start",
     "Image": "images/playlists/onenote_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1856,7 +1856,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Learn how to create a Notebook in OneNote",
+    "Description": "CZ: Learn how to create a Notebook in OneNote",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1868,7 +1868,7 @@
   },
   {
     "Id": "55d81409-752a-4bd8-8c2b-cfc937359358",
-    "Title": "Intro to OneNote",
+    "Title": "CZ: Intro to OneNote",
     "Image": "images/playlists/intro_to_onenote.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1876,7 +1876,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "With OneNote, you can type notes or record audio, sketch or write ideas, add a picture, find notes, organize pages into sections and sections into notebooks, and share notebooks to view and contribute together. Watch this Intro to OneNote overview video and then learn how to sign in, add a new page or section, rename a page or section, open a different notebook, and customize OneNote.",
+    "Description": "CZ: With OneNote, you can type notes or record audio, sketch or write ideas, add a picture, find notes, organize pages into sections and sections into notebooks, and share notebooks to view and contribute together. Watch this Intro to OneNote overview video and then learn how to sign in, add a new page or section, rename a page or section, open a different notebook, and customize OneNote.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1886,7 +1886,7 @@
   },
   {
     "Id": "b63ab88a-2478-44a0-80a9-661849142f29",
-    "Title": "Take notes with OneNote",
+    "Title": "CZ: Take notes with OneNote",
     "Image": "images/playlists/take_notes.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1894,7 +1894,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Take notes the way you want, insert pictures and files, and create more room in your notebook.",
+    "Description": "CZ: Take notes the way you want, insert pictures and files, and create more room in your notebook.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1905,7 +1905,7 @@
   },
   {
     "Id": "8c0e0a94-ac56-4ed8-a385-caea31145761",
-    "Title": "Format notes with OneNote",
+    "Title": "CZ: Format notes with OneNote",
     "Image": "images/playlists/format_notes.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1913,7 +1913,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Format notes, pages, and tables to make them look the way you want",
+    "Description": "CZ: Format notes, pages, and tables to make them look the way you want",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1924,7 +1924,7 @@
   },
   {
     "Id": "17a6d04a-e893-4b67-932f-529f70868150",
-    "Title": "Draw and sketch with OneNote",
+    "Title": "CZ: Draw and sketch with OneNote",
     "Image": "images/playlists/draw_and_sketch.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1932,7 +1932,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Draw or sketch in OneNote to bring your notes to life",
+    "Description": "CZ: Draw or sketch in OneNote to bring your notes to life",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1942,7 +1942,7 @@
   },
   {
     "Id": "352e7758-5888-40c5-b765-edc83d7c64b3",
-    "Title": "Stay organized with OneNote",
+    "Title": "CZ: Stay organized with OneNote",
     "Image": "images/playlists/stay_organized.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1950,7 +1950,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "To stay organized with OneNote, learn how to search for notes, narrow the search, and organize your notebooks. See how to show navigation panes, move a page from one section to another, copy a page to another section or notebook, and move or copy a section.",
+    "Description": "CZ: To stay organized with OneNote, learn how to search for notes, narrow the search, and organize your notebooks. See how to show navigation panes, move a page from one section to another, copy a page to another section or notebook, and move or copy a section.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1960,7 +1960,7 @@
   },
   {
     "Id": "30190ee7-5d18-4c8c-9104-42b06388bee7",
-    "Title": "Share and sync with OneNote",
+    "Title": "CZ: Share and sync with OneNote",
     "Image": "images/playlists/share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1968,7 +1968,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Share your notes with others, and password protect private notes",
+    "Description": "CZ: Share your notes with others, and password protect private notes",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1978,7 +1978,7 @@
   },
   {
     "Id": "54d20fd4-0c72-404a-b0d8-93e64fcc0e36",
-    "Title": "OneNote on mobile devices",
+    "Title": "CZ: OneNote on mobile devices",
     "Image": "images/playlists/onenote_on_mobile_devices.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -1986,7 +1986,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "Use OneNote on iOS, Android, and online so you can connect to and work with your notes no matter where you are",
+    "Description": "CZ: Use OneNote on iOS, Android, and online so you can connect to and work with your notes no matter where you are",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -1997,7 +1997,7 @@
   },
   {
     "Id": "e66fa8f3-ec7e-47f9-9d79-4d334f157563",
-    "Title": "Outlook Quick Start",
+    "Title": "CZ: Outlook Quick Start",
     "Image": "images/playlists/outlook_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2005,7 +2005,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Get started quickly with the Outlook Quick Start guide. Learn how to add an email account, create and send email, use @mentions, show Focused inbox, manage your calendar and contacts, schedule an appointment using Scheduling Assistant, add a contact, collaborate in Outlook, share a file, set up an online meeting and shared notes, and set up your mobile apps.",
+    "Description": "CZ: Get started quickly with the Outlook Quick Start guide. Learn how to add an email account, create and send email, use @mentions, show Focused inbox, manage your calendar and contacts, schedule an appointment using Scheduling Assistant, add a contact, collaborate in Outlook, share a file, set up an online meeting and shared notes, and set up your mobile apps.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2018,7 +2018,7 @@
   },
   {
     "Id": "79fe1eb2-571e-4cbe-98b9-913692ddd387",
-    "Title": "Set up and customize Outlook",
+    "Title": "CZ: Set up and customize Outlook",
     "Image": "images/playlists/set_up_and_customize.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2026,7 +2026,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Need to set up and customize Outlook? Learn how Outlook can help you organize your email, manage and share your calendar, share files, stay connected, and add an outlook.com account, Microsoft 365 email account, or Gmail account.",
+    "Description": "CZ: Need to set up and customize Outlook? Learn how Outlook can help you organize your email, manage and share your calendar, share files, stay connected, and add an outlook.com account, Microsoft 365 email account, or Gmail account.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2037,7 +2037,7 @@
   },
   {
     "Id": "44bb07ac-1c25-43fa-885d-4a0476734c9f",
-    "Title": "Create and send email",
+    "Title": "CZ: Create and send email",
     "Image": "images/playlists/create_and_send_email.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2045,7 +2045,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Discover your Microsoft Outlook inbox",
+    "Description": "CZ: Discover your Microsoft Outlook inbox",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2058,7 +2058,7 @@
   },
   {
     "Id": "8d87d80d-b5df-45a9-9164-e03d74cca066",
-    "Title": "Manage email",
+    "Title": "CZ: Manage email",
     "Image": "images/playlists/manage_email.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2066,7 +2066,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Set up automatic replies for when you are out-of-office",
+    "Description": "CZ: Set up automatic replies for when you are out-of-office",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2078,7 +2078,7 @@
   },
   {
     "Id": "ab55d6d4-c932-48a5-a062-a5e760fda581",
-    "Title": "Organize your inbox",
+    "Title": "CZ: Organize your inbox",
     "Image": "images/playlists/organize_your_inbox.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2086,7 +2086,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Learn tips to organize your inbox. Learn how to set a Follow Up flag, view or remove Follow Up flags, set a reminder, find an Action Item, create color categories, assign a color category to an email message, create a folder, move messages into a folder, add a folder to Favorites, or create a rule.",
+    "Description": "CZ: Learn tips to organize your inbox. Learn how to set a Follow Up flag, view or remove Follow Up flags, set a reminder, find an Action Item, create color categories, assign a color category to an email message, create a folder, move messages into a folder, add a folder to Favorites, or create a rule.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2097,7 +2097,7 @@
   },
   {
     "Id": "94a14949-5322-4bfb-b45a-f66e67286e98",
-    "Title": "Contacts and tasks in Outlook",
+    "Title": "CZ: Contacts and tasks in Outlook",
     "Image": "images/playlists/contacts_and_tasks.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2105,7 +2105,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Add a contact, create a contact group, import and export contacts, or create tasks or a to-do list.",
+    "Description": "CZ: Add a contact, create a contact group, import and export contacts, or create tasks or a to-do list.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2118,7 +2118,7 @@
   },
   {
     "Id": "534d99cd-2b9b-4a9d-acde-c83fcfc082aa",
-    "Title": "Outlook Calendar",
+    "Title": "CZ: Outlook Calendar",
     "Image": "images/playlists/calendar.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2126,7 +2126,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Create appointments and meetings, share your calendar or search for calendar items.",
+    "Description": "CZ: Create appointments and meetings, share your calendar or search for calendar items.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2141,7 +2141,7 @@
   },
   {
     "Id": "cf0a88b6-99be-4db9-8312-a762cfd9976a",
-    "Title": "Outlook mobile: Manage your inbox",
+    "Title": "CZ: Outlook mobile: Manage your inbox",
     "Image": "images/playlists/outlook-mobile-manage-your-inbox.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2149,7 +2149,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Manage your inbox and learn how to RSVP to invites instantly, swipe right to manage your inbox, create focused inbox, and use Android widgets.",
+    "Description": "CZ: Manage your inbox and learn how to RSVP to invites instantly, swipe right to manage your inbox, create focused inbox, and use Android widgets.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2161,7 +2161,7 @@
   },
   {
     "Id": "07666fb2-f6a8-416d-9805-78072ade58ca",
-    "Title": "Outlook mobile: Manage your time",
+    "Title": "CZ: Outlook mobile: Manage your time",
     "Image": "images/playlists/outlook-mobile-manage-your-time.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2169,7 +2169,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Outlook mobile helps you find a time when everyone is available for a meeting.",
+    "Description": "CZ: Outlook mobile helps you find a time when everyone is available for a meeting.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2185,7 +2185,7 @@
   },
   {
     "Id": "a0cbd9cd-bfeb-4976-b39d-8c21da669d0f",
-    "Title": "Outlook mobile: People and connections",
+    "Title": "CZ: Outlook mobile: People and connections",
     "Image": "images/playlists/outlook-mobile-people-and-connections.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2193,7 +2193,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Outlook Mobile makes it easy to find contacts and learn more about them.",
+    "Description": "CZ: Outlook Mobile makes it easy to find contacts and learn more about them.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2206,7 +2206,7 @@
   },
   {
     "Id": "8405be6d-8da0-40d4-aa5c-ac00d4697c2b",
-    "Title": "Outlook mobile: Search and share",
+    "Title": "CZ: Outlook mobile: Search and share",
     "Image": "images/playlists/outlook-mobile-search-and-share.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2214,7 +2214,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Microsoft Search in Outlook mobile finds what you need fast. Effortlessly get to your top contacts, calendar events and files with improved email search.",
+    "Description": "CZ: Microsoft Search in Outlook mobile finds what you need fast. Effortlessly get to your top contacts, calendar events and files with improved email search.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2226,7 +2226,7 @@
   },
   {
     "Id": "f0e74200-1232-4659-8e66-4a037496dcad",
-    "Title": "Planner Quick Start",
+    "Title": "CZ: Planner Quick Start",
     "Image": "images/playlists/planner_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2234,7 +2234,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "fcdc0676-03f7-40b9-80c1-167560c4018d",
-    "Description": "Discover Planner - manage tasks and get updates",
+    "Description": "CZ: Discover Planner - manage tasks and get updates",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2247,7 +2247,7 @@
   },
   {
     "Id": "66e36e66-d38b-4103-9c34-1201c2f2eb7f",
-    "Title": "Ideas for your board",
+    "Title": "CZ: Ideas for your board",
     "Image": "images/playlists/planner_use_planner.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2255,7 +2255,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "fcdc0676-03f7-40b9-80c1-167560c4018d",
-    "Description": "Use Planner to plan an event, publish content, and track a process",
+    "Description": "CZ: Use Planner to plan an event, publish content, and track a process",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2267,7 +2267,7 @@
   },
   {
     "Id": "4a1a5131-1a63-4398-8105-ae9a18c20af8",
-    "Title": "Use Planner",
+    "Title": "CZ: Use Planner",
     "Image": "images/playlists/planner_use_planner.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2275,7 +2275,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "fcdc0676-03f7-40b9-80c1-167560c4018d",
-    "Description": "Manage tasks, create plans, and schedules",
+    "Description": "CZ: Manage tasks, create plans, and schedules",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2292,7 +2292,7 @@
   },
   {
     "Id": "df1a81f5-17a5-4a7a-b214-dfeb4f677afb",
-    "Title": "PowerPoint Quick Start",
+    "Title": "CZ: PowerPoint Quick Start",
     "Image": "images/playlists/powerpoint_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2300,7 +2300,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Create presentations with PowerPoint",
+    "Description": "CZ: Create presentations with PowerPoint",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2314,7 +2314,7 @@
   },
   {
     "Id": "b7593732-a75a-4542-9d72-4932c505b92f",
-    "Title": "Welcome to PowerPoint",
+    "Title": "CZ: Welcome to PowerPoint",
     "Image": "images/playlists/welcome_to_powerpoint.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2322,7 +2322,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Create a presentation from scratch, or from a theme with built-in graphics, fonts, and placeholders for your text, images, and content",
+    "Description": "CZ: Create a presentation from scratch, or from a theme with built-in graphics, fonts, and placeholders for your text, images, and content",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2334,7 +2334,7 @@
   },
   {
     "Id": "4851d3e7-0790-4ccb-b943-cfa0558b4ef6",
-    "Title": "Slides and layouts",
+    "Title": "CZ: Slides and layouts",
     "Image": "images/playlists/slides_and_layouts.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2342,7 +2342,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Learn how to design, edit, and organize your slides with SlideMaster.",
+    "Description": "CZ: Learn how to design, edit, and organize your slides with SlideMaster.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2364,7 +2364,7 @@
   },
   {
     "Id": "9933fa88-bb9e-4dec-8124-abe44b89222c",
-    "Title": "Text & tables with PowerPoint",
+    "Title": "CZ: Text & tables with PowerPoint",
     "Image": "images/playlists/text_and_tables.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2372,7 +2372,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Want to learn about text and tables with PowerPoint? Learn how to insert WordArt, add a hyperlink to a slide, create a PowerPoint presentation from an outline, check spelling in your presentation, create and format a table, insert a linked Excel chart, add slide numbers, date and time, and set the text direction and position in a shape or text box.",
+    "Description": "CZ: Want to learn about text and tables with PowerPoint? Learn how to insert WordArt, add a hyperlink to a slide, create a PowerPoint presentation from an outline, check spelling in your presentation, create and format a table, insert a linked Excel chart, add slide numbers, date and time, and set the text direction and position in a shape or text box.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2389,7 +2389,7 @@
   },
   {
     "Id": "8c91aac4-cb1b-4204-a53a-9aac2641f16a",
-    "Title": "Pictures and graphics with PowerPoint",
+    "Title": "CZ: Pictures and graphics with PowerPoint",
     "Image": "images/playlists/pictures_and_graphics.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2397,7 +2397,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "With PowerPoint, you can insert pictures, photos, clip art, or other images to your slide show from your computer or from the Internet.",
+    "Description": "CZ: With PowerPoint, you can insert pictures, photos, clip art, or other images to your slide show from your computer or from the Internet.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2417,7 +2417,7 @@
   },
   {
     "Id": "e1144779-6751-4415-a1d4-24e0303ea6db",
-    "Title": "Present slideshows",
+    "Title": "CZ: Present slideshows",
     "Image": "images/playlists/present_slideshows.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2425,7 +2425,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Learn how to present slideshows, add speaker notes, record and print a slideshow, and create a self-running presentation.",
+    "Description": "CZ: Learn how to present slideshows, add speaker notes, record and print a slideshow, and create a self-running presentation.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2439,7 +2439,7 @@
   },
   {
     "Id": "fe0408f3-0971-4415-a100-f58a5dc2a0b8",
-    "Title": "Animation, video & audio",
+    "Title": "CZ: Animation, video & audio",
     "Image": "images/playlists/animation_video_and_audio.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2447,7 +2447,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Learn how to add, change, or remove transitions between slides, Animate texts or objects, insert or link to a video and add or delete audio",
+    "Description": "CZ: Learn how to add, change, or remove transitions between slides, Animate texts or objects, insert or link to a video and add or delete audio",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2462,7 +2462,7 @@
   },
   {
     "Id": "ee7fc2e1-a42d-452e-ab90-e8131b08a9b1",
-    "Title": "Share and co-author with PowerPoint",
+    "Title": "CZ: Share and co-author with PowerPoint",
     "Image": "images/playlists/share_and_co-author.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2470,7 +2470,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Share and co-author a presentation, use comments, inspect a presentation, and save the PowerPoint presentation as a PDF",
+    "Description": "CZ: Share and co-author a presentation, use comments, inspect a presentation, and save the PowerPoint presentation as a PDF",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2483,7 +2483,7 @@
   },
   {
     "Id": "24216b89-7d0d-4263-b61e-2ecbda58f1df",
-    "Title": "SharePoint Online Quick Start",
+    "Title": "CZ: SharePoint Online Quick Start",
     "Image": "images/playlists/sharepoint_online_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2491,7 +2491,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+    "Description": "CZ: Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2504,7 +2504,7 @@
   },
   {
     "Id": "4d722e7d-6cb1-4399-998d-6f8645f63ffa",
-    "Title": "Intro to SharePoint Online",
+    "Title": "CZ: Intro to SharePoint Online",
     "Image": "images/playlists/intro_to_sharepoint_online.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2512,7 +2512,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Learn and follow sites, and stay connected on mobile",
+    "Description": "CZ: Learn and follow sites, and stay connected on mobile",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2523,7 +2523,7 @@
   },
   {
     "Id": "d542016a-fdf9-4c8e-b4ea-eed1afc7df93",
-    "Title": "Create sites, posts, and lists",
+    "Title": "CZ: Create sites, posts, and lists",
     "Image": "images/playlists/create_sites_posts_and_lists.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2531,7 +2531,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Create a team site to stay connected and communicate, update lists, add or remove a news post, and add web parts",
+    "Description": "CZ: Create a team site to stay connected and communicate, update lists, add or remove a news post, and add web parts",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2544,7 +2544,7 @@
   },
   {
     "Id": "6601f080-d86a-4d0c-9e60-150746bf8f96",
-    "Title": "Share and sync with SharePoint",
+    "Title": "CZ: Share and sync with SharePoint",
     "Image": "images/playlists/sharepoint_online_share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2552,7 +2552,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Create, share, and SharePoint files",
+    "Description": "CZ: Create, share, and SharePoint files",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2564,7 +2564,7 @@
   },
   {
     "Id": "63354a03-0b23-49c3-bf57-b992fdc3a00a",
-    "Title": "Sway Quick Start",
+    "Title": "CZ: Sway Quick Start",
     "Image": "images/playlists/sway-quick-start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2572,7 +2572,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
-    "Description": "Create in Sway, Add Content, Design and Share, and Learn More",
+    "Description": "CZ: Create in Sway, Add Content, Design and Share, and Learn More",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2584,7 +2584,7 @@
   },
   {
     "Id": "9be47117-f14e-4cb6-ab52-41b59eac1178",
-    "Title": "Share and access Sway",
+    "Title": "CZ: Share and access Sway",
     "Image": "images/playlists/share-and-access-sway.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2592,7 +2592,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
-    "Description": "Share your Sway, add a password, review privacy settings and accessibility features, and review keyboard shortcuts",
+    "Description": "CZ: Share your Sway, add a password, review privacy settings and accessibility features, and review keyboard shortcuts",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2605,7 +2605,7 @@
   },
   {
     "Id": "f23758f6-482e-4435-bd90-b815668f6305",
-    "Title": "Add content to Sway",
+    "Title": "CZ: Add content to Sway",
     "Image": "images/playlists/add-content-to-sway.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2613,7 +2613,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
-    "Description": "Share your Sway, add a password, review privacy settings and accessibility features, and review keyboard shortcuts",
+    "Description": "CZ: Share your Sway, add a password, review privacy settings and accessibility features, and review keyboard shortcuts",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2632,7 +2632,7 @@
   },
   {
     "Id": "07e15804-1e84-4212-ac8d-a222df4e075c",
-    "Title": "Customize Sway",
+    "Title": "CZ: Customize Sway",
     "Image": "images/playlists/customize-sway.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -2640,7 +2640,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "92083395-06d0-433f-ba0d-77c958d853b7",
-    "Description": "Add or remove content in Sway, review administrator settings, file size limits, and frequently asked questions",
+    "Description": "CZ: Add or remove content in Sway, review administrator settings, file size limits, and frequently asked questions",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2653,7 +2653,7 @@
   },
   {
     "Id": "a958fdc7-d697-43f1-b3b3-a3f467ff94cd",
-    "Title": "Word Quick Start",
+    "Title": "CZ: Word Quick Start",
     "Image": "images/playlists/word_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2661,7 +2661,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "There are several useful options to lay out pages with Word. Learn how to change margins, create newsletter columns, change page orientation, add a border to a page, insert a header or a footer, insert page numbers, and insert a page break.",
+    "Description": "CZ: There are several useful options to lay out pages with Word. Learn how to change margins, create newsletter columns, change page orientation, add a border to a page, insert a header or a footer, insert page numbers, and insert a page break.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2674,7 +2674,7 @@
   },
   {
     "Id": "5250bdca-1dac-4242-9ec9-3badda06b5f8",
-    "Title": "Welcome to Word",
+    "Title": "CZ: Welcome to Word",
     "Image": "images/playlists/welcome_to_word.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2682,7 +2682,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Create and format a document, track changes, and collaborate with others",
+    "Description": "CZ: Create and format a document, track changes, and collaborate with others",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2692,7 +2692,7 @@
   },
   {
     "Id": "f74d0622-642d-4f98-906f-2960a2c05d31",
-    "Title": "Write and edit with Word",
+    "Title": "CZ: Write and edit with Word",
     "Image": "images/playlists/write_and_edit.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2700,7 +2700,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Add, replace, and format text in Word. Insert and remove hyperlinks, and show word count",
+    "Description": "CZ: Add, replace, and format text in Word. Insert and remove hyperlinks, and show word count",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2714,7 +2714,7 @@
   },
   {
     "Id": "2bb5f49a-da1c-49e8-b7e8-04cfc6936f25",
-    "Title": "Lay out pages with Word",
+    "Title": "CZ: Lay out pages with Word",
     "Image": "images/playlists/layout_pages.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2722,7 +2722,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Create a newsletter column, change page orientation, add a border, header, or footer, insert a page break or number, and create a table of contents",
+    "Description": "CZ: Create a newsletter column, change page orientation, add a border, header, or footer, insert a page break or number, and create a table of contents",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2738,7 +2738,7 @@
   },
   {
     "Id": "67cb976e-6129-4bed-a769-3691cb7562d8",
-    "Title": "Insert tables, pictures, and watermarks",
+    "Title": "CZ: Insert tables, pictures, and watermarks",
     "Image": "images/playlists/insert_tables_pictures_and_watermarks.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2746,7 +2746,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Insert tables, pictures, icons, WordArt and watermarks. Learn how to rotate a picture and wrap text around a picture.",
+    "Description": "CZ: Insert tables, pictures, icons, WordArt and watermarks. Learn how to rotate a picture and wrap text around a picture.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2762,7 +2762,7 @@
   },
   {
     "Id": "cef03778-baf8-4365-8b23-413c5edd6b66",
-    "Title": "Save and print with Word",
+    "Title": "CZ: Save and print with Word",
     "Image": "images/playlists/save_and_print.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2770,7 +2770,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Save, print, or convert a document to PDF. Print envelopes and labels.",
+    "Description": "CZ: Save, print, or convert a document to PDF. Print envelopes and labels.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2785,7 +2785,7 @@
   },
   {
     "Id": "fb5155d7-a802-4e95-b1ce-f8baea8cb44b",
-    "Title": "Share and co-author with Word",
+    "Title": "CZ: Share and co-author with Word",
     "Image": "images/playlists/share_and_coauthor.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2793,7 +2793,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Collaborate in Word by incerting comments and tracking changes. Use Word on a mobile device.",
+    "Description": "CZ: Collaborate in Word by incerting comments and tracking changes. Use Word on a mobile device.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2807,7 +2807,7 @@
   },
   {
     "Id": "26aa6ac6-24aa-43c5-ad1c-d93359ab3674",
-    "Title": "Use Word for reports",
+    "Title": "CZ: Use Word for reports",
     "Image": "images/playlists/use_word_for_school.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2815,7 +2815,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Write an equation or formula in Word, indent a paragraph, insert lines, create a bibliography, and insert footnotes and endnotes",
+    "Description": "CZ: Write an equation or formula in Word, indent a paragraph, insert lines, create a bibliography, and insert footnotes and endnotes",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2828,7 +2828,7 @@
   },
   {
     "Id": "4210a245-a2ae-4b6a-88a7-83ebef901aa7",
-    "Title": "Improve accessibility and ease of use with Word",
+    "Title": "CZ: Improve accessibility and ease of use with Word",
     "Image": "images/playlists/improve_accessibility_and_ease_of_use.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2836,7 +2836,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Learn to make Word accessible: Use a screen reader, shortcuts, and do things with Tell Me",
+    "Description": "CZ: Learn to make Word accessible: Use a screen reader, shortcuts, and do things with Tell Me",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2848,7 +2848,7 @@
   },
   {
     "Id": "2885901b-1655-4311-a7f9-025852a659e4",
-    "Title": "Add and format text with Word",
+    "Title": "CZ: Add and format text with Word",
     "Image": "images/playlists/word_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2856,7 +2856,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Learn to format text, create a bulleted or numbered list, change the line spacing in Word, apply styles and apply themes",
+    "Description": "CZ: Learn to format text, create a bulleted or numbered list, change the line spacing in Word, apply styles and apply themes",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2869,7 +2869,7 @@
   },
   {
     "Id": "575bed47-83d8-49cb-affa-51d9497ab93b",
-    "Title": "Yammer Quick Start",
+    "Title": "CZ: Yammer Quick Start",
     "Image": "images/playlists/yammer_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2877,7 +2877,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "Get started quickly with the Yammer Quick Start. Sign in to Yammer and join community conversations, find out what's trending in your organization, and set up the Yammer mobile app to use Yammer on the go.",
+    "Description": "CZ: Get started quickly with the Yammer Quick Start. Sign in to Yammer and join community conversations, find out what's trending in your organization, and set up the Yammer mobile app to use Yammer on the go.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2889,7 +2889,7 @@
   },
   {
     "Id": "19382980-771c-413e-a2af-626165fdabba",
-    "Title": "Roll out a successful Yammer network",
+    "Title": "CZ: Roll out a successful Yammer network",
     "Image": "images/playlists/roll_out_a_successful_yammer_network.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2897,7 +2897,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "Plan a strategy for rolling out Yammer, identify Yammer use cases, create a community for the Yammer use cases and prepare for launch. After launch, educate users, drive ongoing engagement of Yammer and integrate Yammer into SharePoint.",
+    "Description": "CZ: Plan a strategy for rolling out Yammer, identify Yammer use cases, create a community for the Yammer use cases and prepare for launch. After launch, educate users, drive ongoing engagement of Yammer and integrate Yammer into SharePoint.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2915,7 +2915,7 @@
   },
   {
     "Id": "02f5792f-4eed-4122-91ed-348560c3fac9",
-    "Title": "Use Yammer every day",
+    "Title": "CZ: Use Yammer every day",
     "Image": "images/playlists/use_yammer_every_day.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2923,7 +2923,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "Use Yammer every day to stay on top of what matters, tap into the knowledge of others, and build on existing work. Learn how to change your profile and settings, start a Yammer conversation, join a Yammer community, manage Yammer notifications and announcements and follow Yammer best practices to make Yammer an important part of your workday.",
+    "Description": "CZ: Use Yammer every day to stay on top of what matters, tap into the knowledge of others, and build on existing work. Learn how to change your profile and settings, start a Yammer conversation, join a Yammer community, manage Yammer notifications and announcements and follow Yammer best practices to make Yammer an important part of your workday.",
     "StatusTagId": "9d1fab25-ed9c-404e-941b-41e428d18726",
     "StatusNote": "",
     "Assets": [
@@ -2937,7 +2937,7 @@
   },
   {
     "Id": "d4df5f82-2049-4c03-aab3-50e5a2dc8ad2",
-    "Title": "What's New, What's Changed",
+    "Title": "CZ: What's New, What's Changed",
     "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -2945,7 +2945,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Discover what's new/what's changed for the latest update of Microsoft 365 learning pathways",
+    "Description": "CZ: Discover what's new/what's changed for the latest update of Microsoft 365 learning pathways",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2957,7 +2957,7 @@
   },
   {
     "Id": "9a105f80-b260-44ad-ba1a-8e2ea9f5bfdc",
-    "Title": "Plan your learning content",
+    "Title": "CZ: Plan your learning content",
     "Image": "images/playlists/plan-your-traning-content.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -2965,7 +2965,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Review Learning Pathways content and content types. Decide what works for your organization.",
+    "Description": "CZ: Review Learning Pathways content and content types. Decide what works for your organization.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2975,7 +2975,7 @@
   },
   {
     "Id": "545e374b-f33e-4d62-8e6f-3ec36b6b28fe",
-    "Title": "Customize learning pathways",
+    "Title": "CZ: Customize learning pathways",
     "Image": "images/playlists/customize-learning-pathways.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -2983,7 +2983,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Learn how to customize the Learning Pathways site, how to hide and show content, and how to build custom playlists.",
+    "Description": "CZ: Learn how to customize the Learning Pathways site, how to hide and show content, and how to build custom playlists.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2999,7 +2999,7 @@
   },
   {
     "Id": "66f9b195-d48e-49e3-bb0e-1848a49b1351",
-    "Title": "Drive adoption",
+    "Title": "CZ: Drive adoption",
     "Image": "images/playlists/drive-adoption-of-learning-pathways.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -3007,7 +3007,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Discover resources and best practices for driving adoption of Learning Pathways",
+    "Description": "CZ: Discover resources and best practices for driving adoption of Learning Pathways",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -3016,7 +3016,7 @@
   },
   {
     "Id": "08365272-6868-4482-9384-b720d0121533",
-    "Title": "Measure impact",
+    "Title": "CZ: Measure impact",
     "Image": "images/playlists/measure-your-impact.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -3024,7 +3024,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Administrators should leverage SharePoint’s built-in site usage reporting capabilities to measure organizational impact of the Microsoft 365 learning pathways.",
+    "Description": "CZ: Administrators should leverage SharePoint’s built-in site usage reporting capabilities to measure organizational impact of the Microsoft 365 learning pathways.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -3033,7 +3033,7 @@
   },
   {
     "Id": "037adb49-b480-4a70-8389-5caeaec1a640",
-    "Title": "Creating a Champion Program",
+    "Title": "CZ: Creating a Champion Program",
     "Image": "images/playlists/items.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "304b216c-ea4d-436c-83f8-93ba1319943b",
@@ -3041,7 +3041,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-    "Description": "Drive adoption of your Office 365 services with these best practices",
+    "Description": "CZ: Drive adoption of your Office 365 services with these best practices",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
