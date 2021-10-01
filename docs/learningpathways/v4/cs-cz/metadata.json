@@ -1,5 +1,5 @@
 {
-  "Technologie": [
+  "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "Name": "Lists",
@@ -158,7 +158,7 @@
       "Subjects": []
     }
   ],
-  "Kategorie": [
+  "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Začínáme",
