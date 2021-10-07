@@ -19,7 +19,8 @@ function GetCachedTranslation($cache, $text, $location, $root)
         return $text
     }
 
-    $location = $location.Replace("$root\", "")
+    #normalize path separator - win vs linux, make the path relative
+    $location = $location.Replace('\', '/').Replace($root.Replace('\', '/'), "")
     if (-not $cacheItem.Locations.Contains($location))
     {
         $cacheItem.Locations += $location + [Environment]::NewLine
