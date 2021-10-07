@@ -1,8 +1,10 @@
 ﻿param
 (
     $BaseDir = [Environment]::CurrentDirectory,
-    $key = $env:ocp_opim_key
+    $key = $env:ocp_opim_key,
+    $language
 )
+
 
 function GetCachedTranslation($cache, $text, $location, $root)
 {
@@ -28,13 +30,15 @@ function GetCachedTranslation($cache, $text, $location, $root)
     return $cacheItem.Translation
 }
 
-write-host "Starting translations in $BaseDir" 
+$languageShort = $language.Substring(0,2)
+
+write-host "Starting translations to $languageShort ($language) in $BaseDir" 
 
 $header = @{"Ocp-Apim-Subscription-Key"=$key; "Content-type"="Application/json; charset=UTF-8"}
 
 $ErrorActionPreference = "Stop"
 
-$cachePath = "$BaseDir\CustomTranslations\translationCache-cz.csv"
+$cachePath = "$BaseDir\CustomTranslations\translationCache-$languageShort.csv"
 $enSrcLocalsPath = "$BaseDir\src\webpart\src\webparts\common\assets\locals-1033.json"
 $enSrcStringsPath = "$BaseDir\src\webpart\src\webparts\common\loc\en-us.ts"
 
@@ -71,7 +75,7 @@ foreach($enDir in $enDirs)
                        #$metadata.Technologies.Name  + 
                        $metadata.Technologies.Subjects.Name + 
                        $metadata.Categories.Name + 
-                       $metadata.Categories.Subcategories.Name +
+                       ($metadata.Categories | where {$_.name -ne "Products"}).Subcategories.Name +
                        $metadata.Audiences.Name + 
                        $metadata.Levels.Name +
                        $metadata.StatusTag.Name ) `
@@ -80,9 +84,9 @@ foreach($enDir in $enDirs)
     #add language to the manifest one folder up
     $manifest = Get-Content "$($enDir.Parent.FullName)\manifest.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
 
-    if ($manifest.Languages -notcontains "cs-CZ")
+    if ($manifest.Languages -notcontains $language)
     {
-        $manifest.Languages += "cs-CZ"
+        $manifest.Languages += $language
         $manifest | ConvertTo-Json | Set-Content "$($enDir.Parent.FullName)\manifest.json" -Encoding UTF8
     }                   
 }
@@ -139,7 +143,7 @@ while ($index -lt $translateList.Count)
     write-host "Translating $($texts.Count) texts of total length $($textsLength - $translateList[$index].Length), at index: $($index - $texts.Count)"
 
     $body = ConvertTo-Json ($texts | Select @{Name="Text"; Expression = { $_.Replace('“','"').Replace('”', '"').Replace("Norwegian (Bokmål)","Norwegian") }} )
-    $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body $body -Headers $header
+    $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=$languageShort" -Method Post -body $body -Headers $header
 
     for($i = 0; $i -lt $texts.Count; $i++)
     {
@@ -159,100 +163,104 @@ $cache | foreach {$_.Locations = ""}
 #create translations directories and apply translations from the cache
 foreach($enDir in $enDirs)
 {
-    $czDirPath = $enDir.Parent.FullName + "\cs-cz"
-    write-host "Initializing localized content at $czDirPath"
+    $langDirPath = $enDir.Parent.FullName + "\$language"
+    write-host "Initializing localized content at $langDirPath"
 
-    if (Test-Path $czDirPath)
+    if (Test-Path $langDirPath)
     {
-        Remove-Item $czDirPath -Recurse
+        Remove-Item $langDirPath -Recurse
     }
-    Copy-Item $enDir.FullName $czDirPath -Recurse
+    Copy-Item $enDir.FullName $langDirPath -Recurse
 
-    $metadata = Get-Content "$czDirPath\metadata.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
-    $assets = Get-Content "$czDirPath\assets.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
-    $playlists = Get-Content "$czDirPath\playlists.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
+    $metadata = Get-Content "$langDirPath\metadata.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
+    $assets = Get-Content "$langDirPath\assets.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
+    $playlists = Get-Content "$langDirPath\playlists.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
 
-    write-host "Applying translations on $czDirPath\playlists.json ($($playlists.Count) playlists)"
+    write-host "Applying translations on $langDirPath\playlists.json ($($playlists.Count) playlists)"
     foreach($playList in $playlists)
     {
-        $playList.Title = GetCachedTranslation $cache $playList.Title "$czDirPath\playlists.json;$($playlist.Id);Title" $BaseDir
-        $playList.Description = GetCachedTranslation $cache $playList.Description "$czDirPath\playlists.json;$($playlist.Id);Description" $BaseDir
+        $playList.Title = GetCachedTranslation $cache $playList.Title "$langDirPath\playlists.json;$($playlist.Id);Title" $BaseDir
+        $playList.Description = GetCachedTranslation $cache $playList.Description "$langDirPath\playlists.json;$($playlist.Id);Description" $BaseDir
     }
     
-    $playlists | ConvertTo-Json | Set-Content "$czDirPath\playlists.json" -Encoding UTF8
+    $playlists | ConvertTo-Json | Set-Content "$langDirPath\playlists.json" -Encoding UTF8
 
-    write-host "Applying translations on $czDirPath\assets.json ($($assets.Count) assets)"
+    write-host "Applying translations on $langDirPath\assets.json ($($assets.Count) assets)"
     foreach($asset in $assets)
     {
-        $asset.Title = GetCachedTranslation $cache $asset.Title "$czDirPath\assets.json;$($asset.Id);Title" $BaseDir
-        $asset.Description = GetCachedTranslation $cache $asset.Description "$czDirPath\assets.json;$($asset.Id);Description" $BaseDir 
-        $asset.Url = $asset.Url.Replace("en-us","cs-cz")
+        $asset.Title = GetCachedTranslation $cache $asset.Title "$langDirPath\assets.json;$($asset.Id);Title" $BaseDir
+        $asset.Description = GetCachedTranslation $cache $asset.Description "$langDirPath\assets.json;$($asset.Id);Description" $BaseDir 
+        $asset.Url = $asset.Url.Replace("en-us",$language)
     }
 
-    $assets | ConvertTo-Json | Set-Content "$czDirPath\assets.json" -Encoding UTF8
+    $assets | ConvertTo-Json | Set-Content "$langDirPath\assets.json" -Encoding UTF8
 
-    write-host "Applying translations on $czDirPath\metadata.json"
+    write-host "Applying translations on $langDirPath\metadata.json"
     foreach($technology in $metadata.Technologies)
     {
-        #$technology.Name = GetCachedTranslation $cache $technology.Name "$czDirPath\metadata.json;Technology;$($technology.Id)" $BaseDir
+        #$technology.Name = GetCachedTranslation $cache $technology.Name "$langDirPath\metadata.json;Technology;$($technology.Id)" $BaseDir
 
         foreach($subject in $technology.Subjects)
         {
-            $subject.Name = GetCachedTranslation $cache $subject.Name "$czDirPath\metadata.json;TechnologySubject;$($subject.Id)" $BaseDir
+            $subject.Name = GetCachedTranslation $cache $subject.Name "$langDirPath\metadata.json;TechnologySubject;$($subject.Id)" $BaseDir
         }
     }
 
     foreach($category in $metadata.Categories)
     {
-        $category.Name = GetCachedTranslation $cache $category.Name "$czDirPath\metadata.json;Category;$($category.Id)" $BaseDir
+        $name = $category.Name
+        $category.Name = GetCachedTranslation $cache $category.Name "$langDirPath\metadata.json;Category;$($category.Id)" $BaseDir
 
-        foreach($subcategory in $category.Subcategories)
+        if ($name -ne "Products")
         {
-            $subcategory.Name = GetCachedTranslation $cache $subcategory.Name "$czDirPath\metadata.json;Subcategory;$($subcategory.Id)" $BaseDir
+            foreach($subcategory in $category.Subcategories)
+            {
+                $subcategory.Name = GetCachedTranslation $cache $subcategory.Name "$langDirPath\metadata.json;Subcategory;$($subcategory.Id)" $BaseDir
+            }
         }
     }
 
     foreach($audience in $metadata.Audiences)
     {
-        $audience.Name = GetCachedTranslation $cache $audience.Name "$czDirPath\metadata.json;Audience;$($audience.Id)" $BaseDir
+        $audience.Name = GetCachedTranslation $cache $audience.Name "$langDirPath\metadata.json;Audience;$($audience.Id)" $BaseDir
     }
 
     foreach($level in $metadata.Levels)
     {
-        $level.Name = GetCachedTranslation $cache $level.Name "$czDirPath\metadata.json;Level;$($level.Id)" $BaseDir
+        $level.Name = GetCachedTranslation $cache $level.Name "$langDirPath\metadata.json;Level;$($level.Id)" $BaseDir
     }
               
     foreach($tag in $metadata.StatusTag)
     {
-        $tag.Name = GetCachedTranslation $cache $tag.Name "$czDirPath\metadata.json;StatusTag;$($tag.Id)" $BaseDir
+        $tag.Name = GetCachedTranslation $cache $tag.Name "$langDirPath\metadata.json;StatusTag;$($tag.Id)" $BaseDir
     }  
     
 
-    $metadata | ConvertTo-Json -Depth 8 | Set-Content "$czDirPath\metadata.json" -Encoding UTF8
+    $metadata | ConvertTo-Json -Depth 8 | Set-Content "$langDirPath\metadata.json" -Encoding UTF8
 }
 
 #apply translations on locals
-$czSrcLocalsPath = $enSrcLocalsPath.Replace("1033", "1029")
-write-host "Applying translations on $czSrcLocalsPath ($($locals.Count) locals)"
+$langSrcLocalsPath = $enSrcLocalsPath.Replace("1033", ($locals | where {$_.code -eq $language}).localeId)
+write-host "Applying translations on $langSrcLocalsPath ($($locals.Count) locals)"
 foreach($loc in $locals)
 {
-    $loc.Description = GetCachedTranslation $cache $loc.Description "$czSrcLocalsPath;$($loc.localeId)" $BaseDir
+    $loc.Description = GetCachedTranslation $cache $loc.Description "$langSrcLocalsPath;$($loc.localeId)" $BaseDir
 }
 
-$locals | ConvertTo-Json | Set-Content $czSrcLocalsPath -Encoding UTF8
+$locals | ConvertTo-Json | Set-Content $langSrcLocalsPath -Encoding UTF8
 
 #apply translations on strings
-$czSrcStringsPath = $enSrcStringsPath.Replace("en-us", "cs-cz")
-write-host "Applying translations on web part strings $czSrcStringsPath ($($enStrings.Count) lines)"
-if (Test-Path $czSrcStringsPath)
+$langSrcStringsPath = $enSrcStringsPath.Replace("en-us", $language)
+write-host "Applying translations on web part strings $langSrcStringsPath ($($enStrings.Count) lines)"
+if (Test-Path $langSrcStringsPath)
 {
-    Remove-Item $czSrcStringsPath
+    Remove-Item $langSrcStringsPath
 }
 foreach($line in $enStrings)
 {
     if ($line -match "(.+): `"(.+)`"")
     {
-        $translation = (GetCachedTranslation $cache $matches[2] "$czSrcStringsPath;$($matches[1].Trim())" $BaseDir) 
+        $translation = (GetCachedTranslation $cache $matches[2] "$langSrcStringsPath;$($matches[1].Trim())" $BaseDir) 
 
         #specific fixes
         $translation = $translation -replace '%(\d+) %', '%$1%'
@@ -260,7 +268,7 @@ foreach($line in $enStrings)
 
         $line = $line.Replace('"' + $matches[2] + '"','"' + $translation + '"')
     }
-    $line >> $czSrcStringsPath
+    $line >> $langSrcStringsPath
 }
 
 #save cache locations
