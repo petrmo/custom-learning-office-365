@@ -24,7 +24,12 @@ jobs:
         shell: pwsh
         env: 
           ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
-        run: .\CustomTranslations\Translate.ps1
+        run: |
+          .\CustomTranslations\Translate.ps1 -language cs-cz
+          .\CustomTranslations\Translate.ps1 -language sk-sk
+          .\CustomTranslations\Translate.ps1 -language pl-pl
+          .\CustomTranslations\Translate.ps1 -language ro-ro
+          .\CustomTranslations\Translate.ps1 -language hu-hu
         
       - name: Commit
         run: |
