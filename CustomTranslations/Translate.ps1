@@ -160,7 +160,7 @@ $cache | foreach {$_.Locations = ""}
 foreach($enDir in $enDirs)
 {
     $czDirPath = $enDir.Parent.FullName + "\cs-cz"
-    write-host "Initializing localized content at $czDirPath)"
+    write-host "Initializing localized content at $czDirPath"
 
     if (Test-Path $czDirPath)
     {
