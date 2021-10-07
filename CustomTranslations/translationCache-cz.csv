@@ -2285,77 +2285,47 @@
 "
 "Create and share news on your SharePoint sites","Vytváření a sdílení zpráv na sharepointových webech","/docs/sss/v4/cs-cz/assets.json;36817246-de68-4510-97cb-25abedf98d25;Title
 "
-"Lists","Listy","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;016a561b-1c7a-4528-b0b7-96fcb556a1e1
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;4b40845d-fe5f-428f-8970-58455e5bf262
+"Lists","Listy","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;4b40845d-fe5f-428f-8970-58455e5bf262
 "
-"Accessibility","Přístupnost","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;054bac6f-2670-4cd1-8b38-087ff82754a2
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;5bbbe57f-709b-40b2-bec8-af0633d3582b
+"Accessibility","Přístupnost","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;5bbbe57f-709b-40b2-bec8-af0633d3582b
 "
 "Office 365","Office 365","/docs/sss/v4/cs-cz/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
-/docs/sss/v4/cs-cz/metadata.json;Technology;646c9351-5bc3-42c1-b852-183051fa5e87
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;0ae04ffb-5e69-461d-919d-a2215109bf49
 /docs/learningpathways/v4/cs-cz/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
 "
-"Word","Slovo","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;0eb89b8a-87cf-4388-b146-1e073588b029
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;f9b14990-420a-4678-87a8-8428928186c6
+"Word","Slovo","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;f9b14990-420a-4678-87a8-8428928186c6
 "
-"Planner","Plánovač","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;2f571b54-44fa-4778-9277-c7935e36ffb3
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;fcdc0676-03f7-40b9-80c1-167560c4018d
+"Planner","Plánovač","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;fcdc0676-03f7-40b9-80c1-167560c4018d
 "
-"Forms","Formuláře","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;33059862-a87d-4b40-9984-be7c6083cf95
+"Forms","Formuláře",""
+"Outlook for iOS and Android","Outlook pro iOS a Android",""
+"OneDrive","OneDrive","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;4ee4d22a-7d53-48bb-9a14-adf34d01cd75
 "
-"Outlook for iOS and Android","Outlook pro iOS a Android","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;3edeb182-3828-4a83-aef9-928a2693e288
-"
-"OneDrive","OneDrive","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;452e503b-bafb-4023-b00d-b6d9b1701596
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;4ee4d22a-7d53-48bb-9a14-adf34d01cd75
-"
-"OneNote","OneNote","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;4ba51921-475f-481d-8bc3-c9b0f658342c
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;6b41ec6b-db5f-4e1b-9eb7-6330e2151b83
+"OneNote","OneNote","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;6b41ec6b-db5f-4e1b-9eb7-6330e2151b83
 "
 "Windows 10","Windows 10","/docs/sss/v4/cs-cz/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
-/docs/sss/v4/cs-cz/metadata.json;Technology;60a36957-a8d4-48d5-8b89-55c1864d307f
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;58847f9a-3144-453e-a10e-bc1c00bc3faa
 /docs/learningpathways/v4/cs-cz/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
 "
-"PowerPoint","PowerPoint","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;8770a224-6b62-406f-9fd2-a51d4a8131a8
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;f05d3e34-3299-4776-a505-86f94b794194
+"PowerPoint","PowerPoint","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;f05d3e34-3299-4776-a505-86f94b794194
 "
-"OneDrive for Business","OneDrive pro firmy","/docs/sss/v4/cs-cz/metadata.json;Technology;8932dbd0-31f7-4fe4-ada1-878a923b0449
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;8e068419-be9e-4a9b-8cc2-a4463df73d8b
+"OneDrive for Business","OneDrive pro firmy",""
+"Office for the web","Office pro web","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;002ce882-04af-491f-9798-71c857606532
 "
-"Office for the web","Office pro web","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;002ce882-04af-491f-9798-71c857606532
+"Access","Přístup","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;175c2d96-040d-4275-9405-b4549bd63dee
 "
-"Access","Přístup","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;9c18d262-89c5-499b-be11-be58279c86bd
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;175c2d96-040d-4275-9405-b4549bd63dee
+"Yammer","Naříkání","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;e83da7d3-653c-4c01-a262-336e07b88aba
 "
-"Yammer","Naříkání","/docs/sss/v4/cs-cz/metadata.json;Technology;648f1c86-fc4b-408e-a925-0819b35b0fe1
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;b8074cb4-dcd4-40ca-a6c1-17472b09e85e
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;e83da7d3-653c-4c01-a262-336e07b88aba
+"SharePoint","SharePoint","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;e5e2ae74-20ff-4626-937d-df4ff3405f29
 "
-"SharePoint","SharePoint","/docs/sss/v4/cs-cz/metadata.json;Technology;aa90a736-5b7d-4d9a-8088-4e9c41ff9841
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;c15c2729-22b4-464b-ba9a-1052d88e2bf4
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;e5e2ae74-20ff-4626-937d-df4ff3405f29
+"Microsoft Teams","Microsoft Teams","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;02354a27-0675-4f67-9c32-f616ce5b3bf3
 "
-"Microsoft Teams","Microsoft Teams","/docs/sss/v4/cs-cz/metadata.json;Technology;96b73bcc-84f6-4b60-a17a-44630cb89157
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;c209f64e-0291-437a-9615-17747eab50d0
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;02354a27-0675-4f67-9c32-f616ce5b3bf3
+"Outlook","Vyhlídka","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;46589138-0dde-4ea5-b9a1-313481a8eb06
 "
-"Outlook","Vyhlídka","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;c71d06be-133b-4c49-8fbf-404f7cc3c38f
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;46589138-0dde-4ea5-b9a1-313481a8eb06
+"Excel","Vynikat","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;85c785c2-c873-4483-9728-64a367fee3f1
 "
-"Excel","Vynikat","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;d3ee44dc-f4ff-424b-a3be-3580954fc479
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;85c785c2-c873-4483-9728-64a367fee3f1
+"Stream","Proud",""
+"Microsoft 365","Microsoft 365","/docs/learningpathways/v4/cs-cz/metadata.json;TechnologySubject;f1b531e0-2a62-4007-8858-08bd8be6ecae
 "
-"Stream","Proud","/docs/sss/v4/cs-cz/metadata.json;Technology;d984257a-d122-45bb-a04a-a2fcdfe8007e
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;d984257a-d122-45bb-a04a-a2fcdfe8007e
-"
-"Microsoft 365","Microsoft 365","/docs/sss/v4/cs-cz/metadata.json;Technology;189210ba-eae3-473a-8ef6-ba3e211d7e0a
-/docs/learningpathways/v4/cs-cz/metadata.json;Technology;e75b9087-6bb2-417f-a696-e667bea533a7
-/docs/learningpathways/v4/cs-cz/metadata.json;TechnologySubject;f1b531e0-2a62-4007-8858-08bd8be6ecae
-"
-"Sway","Kymácet","/docs/learningpathways/v4/cs-cz/metadata.json;Technology;e9d69805-edb5-43da-8258-5520000bf3a6
-/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;92083395-06d0-433f-ba0d-77c958d853b7
+"Sway","Kymácet","/docs/learningpathways/v4/cs-cz/metadata.json;Subcategory;92083395-06d0-433f-ba0d-77c958d853b7
 "
 "Site Branding and Customization","Značky a přizpůsobení webu","/docs/sss/v4/cs-cz/metadata.json;TechnologySubject;80058d77-cd63-40c9-acf9-6dd8f7ffc8ac
 /docs/learningpathways/v4/cs-cz/metadata.json;TechnologySubject;2324ad0f-5577-408f-b5aa-fad1e5a8f208

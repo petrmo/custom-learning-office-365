@@ -35,7 +35,7 @@
     },
     {
       "Id": "8932dbd0-31f7-4fe4-ada1-878a923b0449",
-      "Name": "OneDrive pro firmy",
+      "Name": "OneDrive for Business",
       "Subjects": []
     },
     {
@@ -75,12 +75,12 @@
     },
     {
       "Id": "648f1c86-fc4b-408e-a925-0819b35b0fe1",
-      "Name": "Naříkání",
+      "Name": "Yammer",
       "Subjects": []
     },
     {
       "Id": "d984257a-d122-45bb-a04a-a2fcdfe8007e",
-      "Name": "Proud",
+      "Name": "Stream",
       "Subjects": []
     }
   ],
