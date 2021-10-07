@@ -21,26 +21,11 @@ jobs:
           ref: translate
       # Runs a set of commands using the runners shell
       - name: Translate
+        shell: pwsh
         env: 
           ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
-        run: |
-          $header = @{"Ocp-Apim-Subscription-Key"=$env:ocp_opim_key; "Content-type"="Application/json; charset=UTF-8"}
-          $lines = Get-Content -LiteralPath "src\webpart\src\webparts\common\loc\en-us.ts" -Encoding UTF8
-          
-          for($i = 0; $i -lt $lines.Length; $i++ )
-          {
-              $line = $lines[$i]
-              if ($line -match "(.+): `"(.+)`"")
-              {
-                  $text = $matches[2]
-                  $body = ConvertTo-Json @(@{"Text"=$text})
-                  $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=cs" -Method Post -body $body -Headers $header
-                  $line = $line.Replace('"' + $text + '"','"' + $translate[0].translations[0].text + '"') + " //originalEnglish:$text"
-              }
-
-              $line >> "src\webpart\src\webparts\common\loc\cs-cz.ts"
-          }
-        shell: pwsh
+        run: .\CustomTranslations\Translate.ps1
+        
       - name: Commit
         run: |
           git config user.name github-actions
