@@ -1,7 +1,7 @@
 ﻿param
 (
     $BaseDir = [Environment]::CurrentDirectory,
-    $key
+    $key = $env:ocp_opim_key
 )
 
 
