@@ -2,12 +2,12 @@
   "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-      "Name": "Listy",
+      "Name": "Lists",
       "Subjects": []
     },
     {
       "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
-      "Name": "Přístupnost",
+      "Name": "Accessibility",
       "Subjects": []
     },
     {
@@ -17,22 +17,22 @@
     },
     {
       "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
-      "Name": "Slovo",
+      "Name": "Word",
       "Subjects": []
     },
     {
       "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
-      "Name": "Plánovač",
+      "Name": "Planner",
       "Subjects": []
     },
     {
       "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
-      "Name": "Formuláře",
+      "Name": "Forms",
       "Subjects": []
     },
     {
       "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
-      "Name": "Outlook pro iOS a Android",
+      "Name": "Outlook for iOS and Android",
       "Subjects": []
     },
     {
@@ -57,22 +57,22 @@
     },
     {
       "Id": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
-      "Name": "OneDrive pro firmy",
+      "Name": "OneDrive for Business",
       "Subjects": []
     },
     {
       "Id": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
-      "Name": "Office pro web",
+      "Name": "Office for the web",
       "Subjects": []
     },
     {
       "Id": "9c18d262-89c5-499b-be11-be58279c86bd",
-      "Name": "Přístup",
+      "Name": "Access",
       "Subjects": []
     },
     {
       "Id": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
-      "Name": "Naříkání",
+      "Name": "Yammer",
       "Subjects": []
     },
     {
@@ -121,17 +121,17 @@
     },
     {
       "Id": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-      "Name": "Vyhlídka",
+      "Name": "Outlook",
       "Subjects": []
     },
     {
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "Vynikat",
+      "Name": "Excel",
       "Subjects": []
     },
     {
       "Id": "d984257a-d122-45bb-a04a-a2fcdfe8007e",
-      "Name": "Proud",
+      "Name": "Stream",
       "Subjects": []
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
-      "Name": "Kymácet",
+      "Name": "Sway",
       "Subjects": []
     }
   ],
