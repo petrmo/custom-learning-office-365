@@ -4,7 +4,6 @@
     $key = $env:ocp_opim_key
 )
 
-
 function GetCachedTranslation($cache, $text, $location, $root)
 {
     if ([string]::IsNullOrEmpty($text)) 
@@ -69,7 +68,7 @@ foreach($enDir in $enDirs)
                        $playlists.Description + 
                        $assets.Title + 
                        $assets.Description + 
-                       $metadata.Technologies.Name  + 
+                       #$metadata.Technologies.Name  + 
                        $metadata.Technologies.Subjects.Name + 
                        $metadata.Categories.Name + 
                        $metadata.Categories.Subcategories.Name +
@@ -195,7 +194,7 @@ foreach($enDir in $enDirs)
     write-host "Applying translations on $czDirPath\metadata.json"
     foreach($technology in $metadata.Technologies)
     {
-        $technology.Name = GetCachedTranslation $cache $technology.Name "$czDirPath\metadata.json;Technology;$($technology.Id)" $BaseDir
+        #$technology.Name = GetCachedTranslation $cache $technology.Name "$czDirPath\metadata.json;Technology;$($technology.Id)" $BaseDir
 
         foreach($subject in $technology.Subjects)
         {
