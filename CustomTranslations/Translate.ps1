@@ -22,7 +22,7 @@ function GetCachedTranslation($cache, $text, $location, $root)
     $location = $location.Replace("$root\", "")
     if (-not $cacheItem.Locations.Contains($location))
     {
-        $cacheItem.Locations += "$location" + [Environment]::NewLine
+        $cacheItem.Locations += $location + [Environment]::NewLine
     }
     
     return $cacheItem.Translation
@@ -153,7 +153,8 @@ while ($index -lt $translateList.Count)
     $cache | Export-Csv $cachePath -NoTypeInformation -Encoding UTF8
 }
 
-
+#clean locations- the code might have changed
+$cache | foreach {$_.Locations = ""}
 
 #create translations directories and apply translations from the cache
 foreach($enDir in $enDirs)
@@ -251,7 +252,12 @@ foreach($line in $enStrings)
 {
     if ($line -match "(.+): `"(.+)`"")
     {
-        $translation = (GetCachedTranslation $cache $matches[2] "$czSrcStringsPath;$($matches[1])" $BaseDir) -replace '%(\d+) %', '%$1%'
+        $translation = (GetCachedTranslation $cache $matches[2] "$czSrcStringsPath;$($matches[1].Trim())" $BaseDir) 
+
+        #specific fixes
+        $translation = $translation -replace '%(\d+) %', '%$1%'
+        $translation = $translation.Replace('"', "'")
+
         $line = $line.Replace('"' + $matches[2] + '"','"' + $translation + '"')
     }
     $line >> $czSrcStringsPath
