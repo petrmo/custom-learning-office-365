@@ -30,9 +30,9 @@ jobs:
         env: 
           ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
         run: |
-          foreach($l in "${{ github.event.languages.name }}" -split ",")
+          foreach($l in "${{ github.event.inputs.languages }}" -split ",")
           {
-              .\CustomTranslations\Translate.ps1 -language cs-cz
+              .\CustomTranslations\Translate.ps1 -language $l
           }
         
       - name: Commit
