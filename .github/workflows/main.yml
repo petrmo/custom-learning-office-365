@@ -6,6 +6,11 @@ name: Translations
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      languages:
+        description: 'csv languages to translate to'     
+        required: true
+        default: 'cs-cz,sk-sk,pl-pl,ro-ro,hu-hu'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,11 +30,10 @@ jobs:
         env: 
           ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
         run: |
-          .\CustomTranslations\Translate.ps1 -language cs-cz
-          .\CustomTranslations\Translate.ps1 -language sk-sk
-          .\CustomTranslations\Translate.ps1 -language pl-pl
-          .\CustomTranslations\Translate.ps1 -language ro-ro
-          .\CustomTranslations\Translate.ps1 -language hu-hu
+          foreach($l in "${{ github.event.languages.name }}" -split ",")
+          {
+              .\CustomTranslations\Translate.ps1 -language cs-cz
+          }
         
       - name: Commit
         run: |
