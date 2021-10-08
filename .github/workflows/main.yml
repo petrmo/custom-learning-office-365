@@ -32,7 +32,9 @@ jobs:
         run: |
           foreach($l in "${{ github.event.inputs.languages }}" -split ",")
           {
+              write-hoste "TRANSLATE $l:"
               .\CustomTranslations\Translate.ps1 -language $l
+              write-host $null
           }
         
       - name: Commit
