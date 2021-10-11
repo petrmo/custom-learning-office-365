@@ -24,4 +24,4 @@ jobs:
       - name: Compile Web Parts
         run: |
           cd src/webpart
-          yo @microsoft/sharepoint
+          yo @microsoft/sharepoint --component-type "webpart" --component-name "CustomLearning2"
