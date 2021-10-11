@@ -70,6 +70,10 @@ jobs:
     needs: acceptPR
     runs-on: windows-latest
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with: 
+          ref: translate
       - name: Compile Web Part
         run: |
           cd src/webpart
