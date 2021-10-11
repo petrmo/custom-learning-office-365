@@ -19,6 +19,8 @@ jobs:
       - uses: actions/checkout@v2
         with: 
           ref: ${{ github.event.inputs.branch }}
+      - name: Install tools
+        run: npm install gulp yo @microsoft/generator-sharepoint --global
       - name: Compile Web Parts
         run: |
           cd src/webpart
