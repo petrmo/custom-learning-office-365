@@ -42,7 +42,6 @@ $cachePath = "$BaseDir\CustomTranslations\translationCache-$languageShort.csv"
 $enSrcLocalsPath = "$BaseDir\src\webpart\src\webparts\common\assets\locals-1033.json"
 $enSrcStringsPath = "$BaseDir\src\webpart\src\webparts\common\loc\en-us.ts"
 
-
 #initialize cache
 if (Test-Path $cachePath)
 {
@@ -53,7 +52,6 @@ else
     $cache = @()
 }
 write-host "Translations cache initialized. Number of cached translations: $($cache.Count)"
-
 
 #collect texts to translate in en-us directories of the content files
 $enDirs = Get-ChildItem "$BaseDir\docs" -Recurse -filter "en-us" -Directory 
@@ -91,7 +89,6 @@ foreach($enDir in $enDirs)
     }                   
 }
 
-
 #collect texts in locals in the src files
 write-host "Collecting texts to translate from $enSrcLocalsPath"
 $locals = Get-Content $enSrcLocalsPath -Encoding UTF8 | Out-String | ConvertFrom-Json
@@ -114,7 +111,6 @@ foreach($line in $enStrings)
 #translate by 100 texts chunks (max value suported by Translate service) and update the cache
 $translateList = ($translateList | select -unique)
 write-host "Number of texts to translate: $($translateList.Count)"
-
 
 #debuging - one by one to find invalid
 #foreach($t in $texts)
@@ -235,7 +231,6 @@ foreach($enDir in $enDirs)
         $tag.Name = GetCachedTranslation $cache $tag.Name "$langDirPath\metadata.json;StatusTag;$($tag.Id)" $BaseDir
     }  
     
-
     $metadata | ConvertTo-Json -Depth 8 | Set-Content "$langDirPath\metadata.json" -Encoding UTF8
 }
 
