@@ -65,6 +65,15 @@ jobs:
     steps:
       - name: MergePR
         run: echo "Just merging if really merging"
+  
+  BuildWebPart:
+    needs: acceptPR
+    runs-on: windows-latest
+    steps:
+      - name: Compile Web Part
+        run: |
+          cd src/webpart
+          yo @microsoft/sharepoint
       
           
           
