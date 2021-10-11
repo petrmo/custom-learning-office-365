@@ -252,7 +252,7 @@ define([], (): IM365LPStrings => {
     WebPartModeFull: "Plný",
     WebPartModeContentOnly: "Pouze obsah",
     PropertyPaneFilterCategory: "Kategorie",
-    PropertyPaneFilterSubCategory: "Podkatechl",
+    PropertyPaneFilterSubCategory: "Podkategorie",
     PropertyPaneFilterPlaylist: "Seznam stop",
     AdminSavingNotification: "Zachraňování..",
     DataUpgradeReview: "Přezkoumání",
