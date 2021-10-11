@@ -20,7 +20,7 @@ jobs:
         with: 
           ref: ${{ github.event.inputs.branch }}
       - name: Install tools
-        run: npm install gulp yo @microsoft/generator-sharepoint --global
+        run: npm install yo @microsoft/generator-sharepoint --global
       - name: Compile Web Parts
         run: |
           cd src/webpart
