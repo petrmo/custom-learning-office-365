@@ -34,4 +34,4 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Webparts
-          path: /**/customlearning.sppkg
+          path: sharepoint\solution\customlearning.sppkg
