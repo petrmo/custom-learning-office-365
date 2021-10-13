@@ -31,3 +31,7 @@ jobs:
         run: |
           cd src/webpart
           gulp package-solution --ship
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Webparts
+          path: /**/customlearning.sppkg
