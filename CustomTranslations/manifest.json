@@ -1,0 +1,59 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.11/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.11",
+  "version": "1.0.0",
+  "id": "e1703513-6c75-46ea-918c-7159b96cf340",
+  "packageName": "ms-learningpathways",
+  "developer": {
+    "name": "Microsoft Support",
+    "websiteUrl": "https://www.microsoft.com",
+    "privacyUrl": "https://www.microsoft.com",
+    "termsOfUseUrl": "https://www.microsoft.com"
+  },
+  "icons": {
+    "color": "141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_color.png",
+    "outline": "141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_outline.png"
+  },
+  "name": {
+    "short": "Learning",
+    "full": "Learning Pathways"
+  },
+  "description": {
+    "short": "This is MS Learning Pathways",
+    "full": "This is MS Learning Pathways long description..."
+  },
+  "accentColor": "#014446",
+  "staticTabs": [
+    {
+      "entityId": "ms.teams.spfx.learningpathways",
+      "name": "M365 Learning",
+      "contentUrl": "https://{teamSiteDomain}/sites/LearningPathways/SitePages/CustomLearningViewer.aspx",
+      "scopes": [
+        "personal"
+      ]
+    },
+    {
+      "entityId": "about",
+      "scopes": [
+        "personal"
+      ]
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "*.login.microsoftonline.com",
+    "*.sharepoint.com",
+    "*.sharepoint-df.com",
+    "spoppe-a.akamaihd.net",
+    "spoprod-a.akamaihd.net",
+    "resourceseng.blob.core.windows.net",
+    "msft.spoppe.com"
+  ],
+  "webApplicationInfo": {
+    "id": "00000003-0000-0ff1-ce00-000000000000",
+    "resource": "https://{teamSiteDomain}"
+  }
+}
