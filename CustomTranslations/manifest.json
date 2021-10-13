@@ -20,7 +20,7 @@
   },
   "description": {
     "short": "This is MS Learning Pathways",
-    "full": "This is MS Learning Pathways long description..."
+    "full": "This is MS Learning Pathways with custom translations"
   },
   "accentColor": "#014446",
   "staticTabs": [
