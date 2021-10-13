@@ -25,7 +25,7 @@ jobs:
           ref: ${{ github.event.inputs.branch }}
 
       - name: Zip teams plugin
-        run: 7z.exe a teams.zip CustomTranslations/manifest.json src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_color.png src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_outline.png 
+        run: 7z.exe a teams.zip ./CustomTranslations/manifest.json ./src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_color.png ./src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_outline.png 
 
       - uses: actions/upload-artifact@v2
         name: Upload artifacts
