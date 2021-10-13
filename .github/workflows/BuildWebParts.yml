@@ -19,11 +19,15 @@ jobs:
       - uses: actions/checkout@v2
         with: 
           ref: ${{ github.event.inputs.branch }}
-      - name: Go to webparts dir
-        run: cd src/webpart
       - name: Install tools
-        run: npm ci
+        run: |
+          cd src/webpart
+          npm ci
       - name: Compile Web Parts
-        run: gulp bundle --ship
+        run: |
+          cd src/webpart
+          gulp bundle --ship
       - name: Package Web Parts
-        run: gulp package-solution --ship
+        run: |
+          cd src/webpart
+          gulp package-solution --ship
