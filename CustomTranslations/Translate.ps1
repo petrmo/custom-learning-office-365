@@ -6,6 +6,14 @@
     $repositoryOwner
 )
 
+function ReplaceInvalidTexts($text)
+{
+    return $text.
+               Replace('“','"').
+               Replace('”', '"').
+               Replace(' ', ' ').
+               Replace("Norwegian (Bokmål)","Norwegian")
+}
 
 function GetCachedTranslation($cache, $text, $location, $root)
 {
@@ -153,7 +161,7 @@ while ($index -lt $translateList.Count)
     }
     write-host "Translating $($texts.Count) texts of total length $($textsLength - $translateList[$index].Length), at index: $($index - $texts.Count)"
 
-    $body = ConvertTo-Json ($texts | Select @{Name="Text"; Expression = { $_.Replace('“','"').Replace('”', '"').Replace("Norwegian (Bokmål)","Norwegian") }} )
+    $body = ConvertTo-Json ($texts | Select @{Name="Text"; Expression = { ReplaceInvalidTexts $_ }} )
     $translate = Invoke-RestMethod "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=$languageShort" -Method Post -body $body -Headers $header
 
     for($i = 0; $i -lt $texts.Count; $i++)
