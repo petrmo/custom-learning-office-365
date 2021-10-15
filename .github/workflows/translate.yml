@@ -111,7 +111,7 @@ jobs:
   
   BuildWebPart:
     needs: mergedPR
-    uses: ${{github.repository}}/.github/workflows/BuildWebParts.yml@${{ github.event.inputs.targetBranch }}
+    uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
     with:
       branch: ${{ github.event.inputs.targetBranch }}
     
