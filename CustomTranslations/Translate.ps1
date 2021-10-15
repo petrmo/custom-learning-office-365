@@ -2,7 +2,8 @@
 (
     $BaseDir = [Environment]::CurrentDirectory,
     $key = $env:ocp_opim_key,
-    $language
+    $language,
+    $repositoryOwner
 )
 
 
@@ -26,7 +27,7 @@ function GetCachedTranslation($cache, $text, $location, $root)
     {
         $cacheItem.Locations += $location + [Environment]::NewLine
     }
-    
+
     return $cacheItem.Translation
 }
 
@@ -85,8 +86,22 @@ foreach($enDir in $enDirs)
     if ($manifest.Languages -notcontains $language)
     {
         $manifest.Languages += $language
-        $manifest | ConvertTo-Json | Set-Content "$($enDir.Parent.FullName)\manifest.json" -Encoding UTF8
-    }                   
+    }  
+    
+    foreach($pack in $manifest.ContentPacks)
+    {
+        if ($pack.Image -match "pnp.github.io")
+        {
+            $pack.Image = $pack.Image -replace 'pnp\.github\.io', "$repositoryOwner.github.io"
+        }
+
+        if ($pack.CdnBase -match "pnp.github.io")
+        {
+            $pack.CdnBase = $pack.CdnBase -replace 'pnp\.github\.io', "$repositoryOwner.github.io"
+        }
+    }
+
+    $manifest | ConvertTo-Json | Set-Content "$($enDir.Parent.FullName)\manifest.json" -Encoding UTF8
 }
 
 #collect texts in locals in the src files
@@ -186,7 +201,7 @@ foreach($enDir in $enDirs)
     {
         $asset.Title = GetCachedTranslation $cache $asset.Title "$langDirPath\assets.json;$($asset.Id);Title" $BaseDir
         $asset.Description = GetCachedTranslation $cache $asset.Description "$langDirPath\assets.json;$($asset.Id);Description" $BaseDir 
-        $asset.Url = $asset.Url.Replace("en-us",$language)
+        $asset.Url = $asset.Url -replace "en-us", $language
     }
 
     $assets | ConvertTo-Json | Set-Content "$langDirPath\assets.json" -Encoding UTF8
