@@ -46,7 +46,7 @@ jobs:
         continue-on-error: true
         run:
           write-host "This will fail if pages already configured - check if the configuration is correct"
-          $page = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/pages -Method post -Headers $headers -body '{"source":{"branch":"${{ github.event.inputs.targetBranch }}","path":"/Docs"}}'
+          $page = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/pages -Method post -Headers $env:headers -body '{"source":{"branch":"${{ github.event.inputs.targetBranch }}","path":"/Docs"}}'
           
   translate:
     # The type of runner that the job will run on - windows to use full powershell to have BOM with UTF8
