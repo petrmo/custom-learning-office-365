@@ -23,11 +23,12 @@ jobs:
   initialize:
     runs-on: ubuntu-latest
     env:
-      headers: '@{"Authorization" = "token ${{secrets.GITHUB_TOKEN}}"}'
+      token: ${{secrets.GITHUB_TOKEN}}
     steps:
       - name: Create release branch
         shell: pwsh
         run: |
+          $headers = @{"Authorization" = "token $($env:token)"}
           $branches = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/branches -Method get -Headers $env:headers
           if ($branches.name -notcontains "${{ github.event.inputs.targetBranch }}")
           {
@@ -43,6 +44,7 @@ jobs:
         shell: pwsh
         continue-on-error: true
         run: |
+          $headers = @{"Authorization" = "token $($env:token)"}
           write-host "This will fail if pages already configured - check if the configuration is correct"
           $page = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/pages -Method post -Headers $env:headers -body '{"source":{"branch":"${{ github.event.inputs.targetBranch }}","path":"/Docs"}}'
           
@@ -85,8 +87,9 @@ jobs:
           git add --all
           git commit -m "Translations"
           git push
-  CreatePR:
+  createPR:
     runs-on: ubuntu-latest
+    needs: translate
     steps:
       - name: GitHub Pull Request Action
         uses: repo-sync/pull-request@v2.6
@@ -102,7 +105,7 @@ jobs:
           github_token: ${{secrets.GITHUB_TOKEN}}
           
   mergedPR:
-    needs: translate
+    needs: createPR
     runs-on: ubuntu-latest
     environment: Repo
     steps:
