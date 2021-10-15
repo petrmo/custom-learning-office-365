@@ -42,7 +42,7 @@ jobs:
       - name: Initialize github pages
         shell: pwsh
         continue-on-error: true
-        run:
+        run: |
           write-host "This will fail if pages already configured - check if the configuration is correct"
           $page = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/pages -Method post -Headers $env:headers -body '{"source":{"branch":"${{ github.event.inputs.targetBranch }}","path":"/Docs"}}'
           
@@ -110,8 +110,8 @@ jobs:
         run: echo "Must be merged manually"
   
   BuildWebPart:
-    needs: translate
-    uses: ${{github.repository}}/.github/workflows/BuildWebParts.yml
+    needs: mergedPR
+    uses: ${{github.repository}}/.github/workflows/BuildWebParts.yml@${{ github.event.inputs.targetBranch }}
     with:
       branch: ${{ github.event.inputs.targetBranch }}
     
