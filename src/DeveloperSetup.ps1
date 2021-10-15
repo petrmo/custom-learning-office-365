@@ -1,8 +1,8 @@
-$clSite = "https://contoso.sharepoint.com/sites/M365LP"
+﻿$clSite = "https://contoso.sharepoint.com/sites/M365LP"
 
 try {
   Connect-PnPOnline -Url $clSite -UseWebLogin
-  Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://pnp.github.io/custom-learning-office-365/learningpathways/" -Description "CDN source for Microsoft 365 learning pathways Content"
+  Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://petrmo.github.io/custom-learning-office-365/learningpathways/" -Description "CDN source for Microsoft 365 learning pathways Content"
   Get-PnPStorageEntity -Key MicrosoftCustomLearningCdn
   Set-PnPStorageEntity -Key MicrosoftCustomLearningSite -Value $clSite -Description "M365 learning pathways Site Collection"
   Get-PnPStorageEntity -Key MicrosoftCustomLearningSite
@@ -38,4 +38,5 @@ catch {
   Write-Error "Failed to authenticate to $siteUrl"
   Write-Error $_.Exception
 }
+
 
