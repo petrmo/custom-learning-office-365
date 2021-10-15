@@ -11,29 +11,72 @@ on:
         description: 'csv languages to translate to'     
         required: true
         default: 'cs-cz,sk-sk,pl-pl,ro-ro,hu-hu'
+      sourceBranch:
+        description: 'Source Branch'     
+        required: true
+        default: 'translate'
+      targetBranch:
+        description: 'Target Branch'     
+        required: true
+        default: 'release'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  translate:
-    # The type of runner that the job will run on
+  initialize:
     runs-on: ubuntu-latest
+    env:
+      headers: '@{"Authorization" = "token ${{secrets.GITHUB_TOKEN}}"}'
+    steps:
+      - name: Create release branch
+        shell: pwsh
+        run: |
+          $branches = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/branches -Method get -Headers $env:headers
+          if ($branches.name -notcontains "${{ github.event.inputs.targetBranch }}")
+          {
+              write-host "Create Branch ${{ github.event.inputs.targetBranch }}"
+              $body = '{"ref":"refs/heads/${{ github.event.inputs.targetBranch }}","sha":"' + ($branches | where {$_.name -eq "${{ github.event.inputs.sourceBranch }}"}).commit.sha + '"}'
+              $newbranch = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/git/refs -Method post -Headers $env:headers -body $body
+          }
+          else
+          {
+              write-host "Branch ${{ github.event.inputs.targetBranch }} already exists"
+          }
+      - name: Initialize github pages
+        shell: pwsh
+        continue-on-error: true
+        run:
+          write-host "This will fail if pages already configured - check if the configuration is correct"
+          $page = Invoke-RestMethod https://api.github.com/repos/${{github.repository}}/pages -Method post -Headers $env:headers -body '{"source":{"branch":"${{ github.event.inputs.targetBranch }}","path":"/Docs"}}'
+          
+  translate:
+    # The type of runner that the job will run on - windows to use full powershell to have BOM with UTF8
+    runs-on: windows-latest
+    needs: initialize
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with: 
-          ref: translate
-      # Runs a set of commands using the runners shell
+          ref: ${{ github.event.inputs.sourceBranch }}
+      - name: UpdateCDN
+        shell: powershell
+        run: |
+          $setupFiles = @("installation\UpdateM365lpCDN.ps1", "src\DeveloperSetup.ps1", "installation\M365lpConfiguration.ps1")
+          foreach($file in $setupFiles)
+          {
+              $content = (Get-Content $file -Encoding UTF8 | Out-String) -replace 'pnp\.github\.io', '${{github.repository_owner}}.github.io'
+              $content | Set-Content $file -Encoding UTF8 
+          }
       - name: Translate
-        shell: pwsh
+        shell: powershell
         env: 
           ocp_opim_key: ${{secrets.OCPAPIMSUBSCRIPTIONKEY}}
         run: |
           foreach($l in "${{ github.event.inputs.languages }}" -split ",")
           {
               write-host "TRANSLATE $l`:"
-              .\CustomTranslations\Translate.ps1 -language $l
+              .\CustomTranslations\Translate.ps1 -language $l -repositoryOwner ${{github.repository_owner}}
               write-host $null
           }
         
@@ -44,40 +87,36 @@ jobs:
           git add --all
           git commit -m "Translations"
           git push
-      
+  CreatePR:
+    runs-on: ubuntu-latest
+    steps:
       - name: GitHub Pull Request Action
         uses: repo-sync/pull-request@v2.6
         with:
           # Branch name to pull from, default is triggered branch
-          source_branch: translate
+          source_branch: ${{ github.event.inputs.sourceBranch }}
           # Branch name to sync to in this repo, default is master
-          destination_branch: main
+          destination_branch: ${{ github.event.inputs.targetBranch }}
           # Pull request title
           pr_title: Review the translations
           # Pull request reviewers, comma-separated list (no spaces)
           pr_reviewer: petrmo
           github_token: ${{secrets.GITHUB_TOKEN}}
           
-  acceptPR:
+  mergedPR:
     needs: translate
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     environment: Repo
     steps:
       - name: MergePR
-        run: echo "Just merging if really merging"
+        run: echo "Must be merged manually"
   
   BuildWebPart:
-    needs: acceptPR
-    runs-on: windows-latest
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-        with: 
-          ref: translate
-      - name: Compile Web Part
-        run: |
-          cd src/webpart
-          yo @microsoft/sharepoint
+    needs: translate
+    uses: ${{github.repository}}/.github/workflows/BuildWebParts.yml
+    with:
+      branch: ${{ github.event.inputs.targetBranch }}
+    
       
           
           
