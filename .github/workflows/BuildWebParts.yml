@@ -38,12 +38,14 @@ jobs:
         run: |
           cd src/webpart
           gulp package-solution --ship
-      - name: Zip teams plugin
-        run: 7z.exe a teams.zip CustomTranslations/manifest.json custom-learning-office-365/src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_color.png custom-learning-office-365/src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_outline.png 
       - uses: actions/upload-artifact@v2
         name: Upload artifacts
         with:
           name: Webparts
           path: |
             src\webpart\sharepoint\solution\customlearning.sppkg
-            teams.zip
+  PackManifest:
+    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
+    with:
+      branch: ${{ github.event.inputs.branch }}
+            
