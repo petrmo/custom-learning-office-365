@@ -121,7 +121,12 @@ jobs:
     uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
     with:
       branch: ${{ github.event.inputs.targetBranch }}
-    
+  
+  PackManifest:
+    needs: mergedPR
+    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
+    with:
+      branch: ${{ github.event.inputs.branch }}
       
           
           
