@@ -11,10 +11,17 @@ on:
         description: 'Branch'     
         required: true
         default: 'translate'
+  workflow_call:
+    inputs:
+      branch:
+        description: 'Branch'     
+        required: true
+        default: 'translate'
+        type: string
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   zip:
-    # The type of runner that the job will run on
+    # The type of runner that the job will run on - windows has 7z installed
     runs-on: windows-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
