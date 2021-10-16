@@ -43,8 +43,4 @@ jobs:
           name: Webparts
           path: |
             src\webpart\sharepoint\solution\customlearning.sppkg
-  PackManifest:
-    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
-    with:
-      branch: ${{ github.event.inputs.branch }}
             
