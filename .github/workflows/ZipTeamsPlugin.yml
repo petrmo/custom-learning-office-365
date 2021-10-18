@@ -6,14 +6,14 @@ name: Zip Teams plugin
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-   inputs:
-      branch:
+    inputs:
+      sourceBranch:
         description: 'Branch'     
         required: true
         default: 'translate'
   workflow_call:
     inputs:
-      branch:
+      sourceBranch:
         description: 'Branch'     
         required: true
         default: 'translate'
@@ -29,7 +29,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with: 
-          ref: ${{ github.event.inputs.branch }}
+          ref: ${{ github.event.inputs.sourceBranch }}
 
       - name: Zip teams plugin
         run: 7z.exe a teams.zip ./CustomTranslations/manifest.json ./src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_color.png ./src/webpart/teams/141d4ab7-b6ca-4bf4-ac59-25b7bf93642d_outline.png 
