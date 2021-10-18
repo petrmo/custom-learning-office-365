@@ -1,0 +1,43 @@
+name: BuildWebParts
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch'     
+        required: true
+        default: 'translate'
+
+jobs:
+  BuildWebPart:
+    runs-on: windows-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with: 
+          ref: ${{ github.event.inputs.branch }}
+      - name: Install dependencies
+        run: |
+          cd src/webpart
+          npm ci
+      - name: Compile Web Parts
+        run: |
+          cd src/webpart
+          gulp bundle --ship
+      - name: Package Web Parts
+        run: |
+          cd src/webpart
+          gulp package-solution --ship
+      - uses: actions/upload-artifact@v2
+        name: Upload artifacts
+        with:
+          name: Webparts
+          path: |
+            src\webpart\sharepoint\solution\customlearning.sppkg
+
+  PackManifest:
+    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
+    with:
+      branch: ${{ github.event.inputs.branch }}
