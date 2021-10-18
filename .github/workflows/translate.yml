@@ -120,13 +120,13 @@ jobs:
     needs: translate
     uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
     with:
-      branch: ${{ github.event.inputs.targetBranch }}
+      branch: ${{ github.event.inputs.sourceBranch }}
   
   PackManifest:
     needs: translate
     uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
     with:
-      branch: ${{ github.event.inputs.branch }}
+      branch: ${{ github.event.inputs.sourceBranch }}
       
           
           
