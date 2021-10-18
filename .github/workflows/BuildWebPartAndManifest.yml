@@ -14,14 +14,11 @@ jobs:
   PackManifest:
     uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
     with:
-      branch: ${{ github.event.inputs.sourceBranch }}
+      sourceBranch: ${{ github.event.inputs.sourceBranch }}
       
   PackManifest2:
-    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
+    uses: ./.github/workflows/ZipTeamsPlugin.yml@main
     with:
-      branch: ReleaseB
+      sourceBranch: ReleaseB
 
-  PackManifest3:
-    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
-    with:
-      branch: ${{ github.event.inputs.Branch }}
+  
