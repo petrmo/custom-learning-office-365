@@ -117,13 +117,13 @@ jobs:
         run: echo "Must be merged manually"
   
   BuildWebPart:
-    needs: mergedPR
+    needs: translate
     uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
     with:
       branch: ${{ github.event.inputs.targetBranch }}
   
   PackManifest:
-    needs: mergedPR
+    needs: translate
     uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
     with:
       branch: ${{ github.event.inputs.branch }}
