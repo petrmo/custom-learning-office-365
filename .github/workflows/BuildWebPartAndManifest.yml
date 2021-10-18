@@ -1,4 +1,4 @@
-name: BuildWebParts
+name: Build WebParts and Manifest
 
 # Controls when the workflow will run
 on:
