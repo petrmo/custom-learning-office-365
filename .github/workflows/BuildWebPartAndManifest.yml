@@ -17,7 +17,7 @@ jobs:
       sourceBranch: ${{ github.event.inputs.sourceBranch }}
       
   PackManifest2:
-    uses: ./.github/workflows/ZipTeamsPlugin.yml@main
+    uses: petrmo/custom-learning-office-365/.github/workflows/ZipTeamsPlugin.yml@main
     with:
       sourceBranch: ReleaseB
 
