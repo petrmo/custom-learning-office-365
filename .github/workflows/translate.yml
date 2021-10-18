@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       languages:
-        description: 'csv languages to translate to'     
+        description: 'Languages to translate to'     
         required: true
         default: 'cs-cz,sk-sk,pl-pl,ro-ro,hu-hu'
       sourceBranch:
@@ -67,7 +67,7 @@ jobs:
           foreach($file in $setupFiles)
           {
               $content = (Get-Content $file -Encoding UTF8 | Out-String) -replace 'pnp\.github\.io', '${{github.repository_owner}}.github.io'
-              $content | Set-Content $file -Encoding UTF8 
+              $content | Set-Content $file -Encoding UTF8 -NoNewline
           }
       - name: Translate
         shell: powershell
@@ -108,14 +108,6 @@ jobs:
           pr_reviewer: petrmo
           github_token: ${{secrets.GITHUB_TOKEN}}
           
-  mergedPR:
-    needs: createPR
-    runs-on: ubuntu-latest
-    environment: Repo
-    steps:
-      - name: MergePR
-        run: echo "Must be merged manually"
-  
   BuildWebPart:
     needs: translate
     uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
