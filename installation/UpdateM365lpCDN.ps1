@@ -1,4 +1,4 @@
-param([string]$TenantName)
+﻿param([string]$TenantName)
 
 try {
   $NotFound = $true
@@ -41,7 +41,8 @@ catch {
   break
 }
 
-Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://pnp.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop
+Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://petrmo.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop
 Get-PnPStorageEntity -Key MicrosoftCustomLearningCdn
 
 Disconnect-PnPOnline
+
