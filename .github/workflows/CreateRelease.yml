@@ -51,10 +51,12 @@ jobs:
         run: |
           $commit = (git rev-parse --short HEAD)
           $package = Get-Content "src\webpart\package.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
-          "::set-output name=version::v$($package.version).$commit"
+          "::set-output name=version::v$($package.version)"
+          "::set-output name=commit::$commit"
       - name: Show version
         run: |
           echo "Version:${{ steps.GetVersion.outputs.version }}"
+          echo "Commit:${{ steps.GetVersion.outputs.commit }}"
 
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.0.10
@@ -69,6 +71,6 @@ jobs:
           allowUpdates: true
           artifactErrorsFailBuild: true
           artifacts: README.md,*.zip 
-          body: "A release for ${{github.event.inputs.sourceBranch}}, ${{github.ref}}, ${{github.sha}} by ${{ github.actor }}"
-          tag: ${{ steps.GetVersion.outputs.version }}.${{github.sha}}
+          body: "A release for ${{github.event.inputs.sourceBranch}}, commit ${{ steps.GetVersion.outputs.commit }} by ${{ github.actor }}"
+          tag: ${{ steps.GetVersion.outputs.version }}.${{ steps.GetVersion.outputs.commit }}
 
