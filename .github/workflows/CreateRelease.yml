@@ -61,5 +61,6 @@ jobs:
           allowUpdates: true
           artifactErrorsFailBuild: true
           artifacts: README.md,*.zip 
+          body: "A release for ${{github.event.inputs.sourceBranch}}, ${{github.ref}}, ${{github.sha}} by ${{ github.actor }}"
           tag: v1.0.0 
 
