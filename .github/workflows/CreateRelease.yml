@@ -44,25 +44,24 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.inputs.sourceBranch }}
+          
       - name: Get version
         id: GetVersion
         shell: pwsh
         run: |
+          $commit = (git rev-parse --short HEAD)
           $package = Get-Content "src\webpart\package.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
-          "version=$($package.version)" >> $GITHUB_ENV
-          "::set-output name=version::$($package.version)"
+          "::set-output name=version::v$($package.version).$commit"
       - name: Show version
         run: |
-          echo "V1:${{ env.version }}"
-          echo "V2:${{ steps.GetVersion.outputs.version }}"
-          
-          
+          echo "Version:${{ steps.GetVersion.outputs.version }}"
+
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.0.10
         with:
           # Artifact name
           name: TeamsPlugin
-          
+         
       - name: Create Release
         uses: ncipollo/release-action@v1.8.10
         with:
@@ -71,5 +70,5 @@ jobs:
           artifactErrorsFailBuild: true
           artifacts: README.md,*.zip 
           body: "A release for ${{github.event.inputs.sourceBranch}}, ${{github.ref}}, ${{github.sha}} by ${{ github.actor }}"
-          tag: v${{ steps.GetVersion.outputs.version }}.${{github.sha}}
+          tag: ${{ steps.GetVersion.outputs.version }}.${{github.sha}}
 
