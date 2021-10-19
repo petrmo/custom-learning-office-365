@@ -71,5 +71,5 @@ jobs:
           artifactErrorsFailBuild: true
           artifacts: README.md,*.zip 
           body: "A release for ${{github.event.inputs.sourceBranch}}, ${{github.ref}}, ${{github.sha}} by ${{ github.actor }}"
-          tag: v${{ steps.GetVersion.outputs.version }}
+          tag: v${{ steps.GetVersion.outputs.version }}.${{github.sha}}
 
