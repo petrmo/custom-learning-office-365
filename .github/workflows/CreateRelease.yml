@@ -11,7 +11,7 @@ on:
       sourceBranch:
         description: 'Branch'     
         required: true
-        default: 'translate'
+        default: 'translate'       
   workflow_call:
     inputs:
       sourceBranch:
@@ -23,6 +23,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   BuildWebPart:
+    if: false
     uses: petrmo/custom-learning-office-365/.github/workflows/BuildWebParts.yml@main
     with:
       sourceBranch: ${{ github.event.inputs.sourceBranch }}
@@ -33,6 +34,7 @@ jobs:
       sourceBranch: ${{ github.event.inputs.sourceBranch }}          
 
   Release:
+    needs: [PackManifest]
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
