@@ -59,6 +59,7 @@ jobs:
         with:
           # An optional flag which indicates if we should update a release if it already exists. Defaults to false.
           allowUpdates: true
-          artifacts: readme.md,TeamsPlugin.zip 
+          artifactErrorsFailBuild: true
+          artifacts: README.md,*.zip 
           tag: v1.0.0 
 
