@@ -48,7 +48,7 @@ jobs:
         shell: pwsh
         run: |
           $package = Get-Content "src\webpart\package.json" -Encoding UTF8 | Out-String | ConvertFrom-Json
-          echo "version=$($package.version)" >> $GITHUB_ENV
+          "version=$($package.version)" >> $GITHUB_ENV
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.0.10
         with:
