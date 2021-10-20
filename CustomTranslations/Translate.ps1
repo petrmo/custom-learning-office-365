@@ -12,7 +12,7 @@ function ReplaceInvalidTexts($text)
                Replace('“','"').
                Replace('”', '"').
                Replace(' ', ' ').
-               Replace("å)","a")
+               Replace("å","a")
 }
 
 function GetCachedTranslation($cache, $text, $location, $root)
