@@ -1,0 +1,1117 @@
+﻿[
+    {
+        "localeId":  1025,
+        "description":  "Arabčina - Saudská Arábia",
+        "code":  "ar-SA"
+    },
+    {
+        "localeId":  1026,
+        "description":  "Bulharčina",
+        "code":  "bg-BG"
+    },
+    {
+        "localeId":  1027,
+        "description":  "Katalánčina",
+        "code":  "ca-ES"
+    },
+    {
+        "localeId":  1028,
+        "description":  "Čínština - Taiwan",
+        "code":  "zh-TW"
+    },
+    {
+        "localeId":  1029,
+        "description":  "Čeština",
+        "code":  "cs-CZ"
+    },
+    {
+        "localeId":  1030,
+        "description":  "Dánčina",
+        "code":  "da-DK"
+    },
+    {
+        "localeId":  1031,
+        "description":  "Nemčina - Nemecko",
+        "code":  "de-DE"
+    },
+    {
+        "localeId":  1032,
+        "description":  "Gréčtina",
+        "code":  "el-GR"
+    },
+    {
+        "localeId":  1033,
+        "description":  "Angličtina - Spojené štáty americké",
+        "code":  "en-US"
+    },
+    {
+        "localeId":  1034,
+        "description":  "Španielčina - Španielsko (tradičný druh)",
+        "code":  "es-ES"
+    },
+    {
+        "localeId":  1035,
+        "description":  "Fínčina",
+        "code":  "fi-FI"
+    },
+    {
+        "localeId":  1036,
+        "description":  "Francúzština - Francúzsko",
+        "code":  "fr-FR"
+    },
+    {
+        "localeId":  1037,
+        "description":  "Hebrejčina",
+        "code":  "he-IL"
+    },
+    {
+        "localeId":  1038,
+        "description":  "Maďarčina",
+        "code":  "hu-HU"
+    },
+    {
+        "localeId":  1039,
+        "description":  "Islandčina",
+        "code":  "is-IS"
+    },
+    {
+        "localeId":  1040,
+        "description":  "Taliančina - Taliansko",
+        "code":  "it-IT"
+    },
+    {
+        "localeId":  1041,
+        "description":  "Japončina",
+        "code":  "ja-JP"
+    },
+    {
+        "localeId":  1042,
+        "description":  "Kórejčina",
+        "code":  "ko-KR"
+    },
+    {
+        "localeId":  1043,
+        "description":  "Holandčina - Holandsko",
+        "code":  "nl-NL"
+    },
+    {
+        "localeId":  1044,
+        "description":  "nórčina (Bokmal)",
+        "code":  "nb-NO"
+    },
+    {
+        "localeId":  1045,
+        "description":  "Poľština",
+        "code":  "pl-PL"
+    },
+    {
+        "localeId":  1046,
+        "description":  "Portugalčina - Brazília",
+        "code":  "pt-BR"
+    },
+    {
+        "localeId":  1047,
+        "description":  "Rhaeto-romansky",
+        "code":  "rm-CH"
+    },
+    {
+        "localeId":  1048,
+        "description":  "Rumunčina",
+        "code":  "ro-RO"
+    },
+    {
+        "localeId":  1049,
+        "description":  "Ruština",
+        "code":  "ru-RU"
+    },
+    {
+        "localeId":  1050,
+        "description":  "Chorvátčina",
+        "code":  "hr-HR"
+    },
+    {
+        "localeId":  1051,
+        "description":  "Slovenčina",
+        "code":  "sk-SK"
+    },
+    {
+        "localeId":  1052,
+        "description":  "Albánsko - Albánsko",
+        "code":  "sq-AL"
+    },
+    {
+        "localeId":  1053,
+        "description":  "Švédčina",
+        "code":  "sv-SE"
+    },
+    {
+        "localeId":  1054,
+        "description":  "Thajčina",
+        "code":  "th-TH"
+    },
+    {
+        "localeId":  1055,
+        "description":  "Turečtina",
+        "code":  "tr-TR"
+    },
+    {
+        "localeId":  1056,
+        "description":  "Urdu - Pakistan",
+        "code":  "ur-PK"
+    },
+    {
+        "localeId":  1057,
+        "description":  "Indonézština",
+        "code":  "id-ID"
+    },
+    {
+        "localeId":  1058,
+        "description":  "Ukrajinčina",
+        "code":  "uk-UA"
+    },
+    {
+        "localeId":  1059,
+        "description":  "Bieloruština",
+        "code":  "be-BY"
+    },
+    {
+        "localeId":  1060,
+        "description":  "Slovinčina",
+        "code":  "sl-SI"
+    },
+    {
+        "localeId":  1061,
+        "description":  "Estónčina",
+        "code":  "et-EE"
+    },
+    {
+        "localeId":  1062,
+        "description":  "Lotyština",
+        "code":  "lv-LV"
+    },
+    {
+        "localeId":  1063,
+        "description":  "Litovčina",
+        "code":  "lt-LT"
+    },
+    {
+        "localeId":  1064,
+        "description":  "Tadžičtina",
+        "code":  "tg-Cyrl-TJ"
+    },
+    {
+        "localeId":  1065,
+        "description":  "Perzština",
+        "code":  "fa-IR"
+    },
+    {
+        "localeId":  1066,
+        "description":  "Vietnamčina",
+        "code":  "vi-VN"
+    },
+    {
+        "localeId":  1067,
+        "description":  "Arménsko - Arménsko",
+        "code":  "hy-AM"
+    },
+    {
+        "localeId":  1068,
+        "description":  "Azerbajdžančina (latinka)",
+        "code":  "az-Latn-AZ"
+    },
+    {
+        "localeId":  1069,
+        "description":  "Baskičtina",
+        "code":  "eu-ES"
+    },
+    {
+        "localeId":  1070,
+        "description":  "Lužickosrbský",
+        "code":  "wen-DE"
+    },
+    {
+        "localeId":  1071,
+        "description":  "F.Y.R.O. Macedónsky",
+        "code":  "mk-MK"
+    },
+    {
+        "localeId":  1072,
+        "description":  "Sutu",
+        "code":  "st-ZA"
+    },
+    {
+        "localeId":  1073,
+        "description":  "Tsonga",
+        "code":  "ts-ZA"
+    },
+    {
+        "localeId":  1074,
+        "description":  "Tswančina",
+        "code":  "tn-ZA"
+    },
+    {
+        "localeId":  1075,
+        "description":  "Venda",
+        "code":  "ven-ZA"
+    },
+    {
+        "localeId":  1076,
+        "description":  "Xhoština",
+        "code":  "xh-ZA"
+    },
+    {
+        "localeId":  1077,
+        "description":  "Zuluština",
+        "code":  "zu-ZA"
+    },
+    {
+        "localeId":  1078,
+        "description":  "Afrikánčina - Južná Afrika",
+        "code":  "af-ZA"
+    },
+    {
+        "localeId":  1079,
+        "description":  "Gruzínčina",
+        "code":  "ka-GE"
+    },
+    {
+        "localeId":  1080,
+        "description":  "Faerčina",
+        "code":  "fo-FO"
+    },
+    {
+        "localeId":  1081,
+        "description":  "Hindčina",
+        "code":  "hi-IN"
+    },
+    {
+        "localeId":  1082,
+        "description":  "Maltčina",
+        "code":  "mt-MT"
+    },
+    {
+        "localeId":  1083,
+        "description":  "Sami",
+        "code":  "se-NO"
+    },
+    {
+        "localeId":  1084,
+        "description":  "Gaelčina (Škótsko)",
+        "code":  "gd-GB"
+    },
+    {
+        "localeId":  1085,
+        "description":  "Jidiš",
+        "code":  "yi"
+    },
+    {
+        "localeId":  1086,
+        "description":  "Malaj - Malajzia",
+        "code":  "ms-MY"
+    },
+    {
+        "localeId":  1087,
+        "description":  "Kazaština",
+        "code":  "kk-KZ"
+    },
+    {
+        "localeId":  1088,
+        "description":  "Kirgizsko (cyrilika)",
+        "code":  "ky-KG"
+    },
+    {
+        "localeId":  1089,
+        "description":  "Swahilčina",
+        "code":  "sw-KE"
+    },
+    {
+        "localeId":  1090,
+        "description":  "Turkménčina",
+        "code":  "tk-TM"
+    },
+    {
+        "localeId":  1091,
+        "description":  "Uzbecký (latinčina)",
+        "code":  "uz-Latn-UZ"
+    },
+    {
+        "localeId":  1092,
+        "description":  "Tatárčina",
+        "code":  "tt-RU"
+    },
+    {
+        "localeId":  1093,
+        "description":  "Bengálčina (India)",
+        "code":  "bn-IN"
+    },
+    {
+        "localeId":  1094,
+        "description":  "Pandžábčina",
+        "code":  "pa-IN"
+    },
+    {
+        "localeId":  1095,
+        "description":  "Gudžarátčina",
+        "code":  "gu-IN"
+    },
+    {
+        "localeId":  1096,
+        "description":  "Oriya",
+        "code":  "or-IN"
+    },
+    {
+        "localeId":  1097,
+        "description":  "Tamilčina",
+        "code":  "ta-IN"
+    },
+    {
+        "localeId":  1098,
+        "description":  "Telugčina",
+        "code":  "te-IN"
+    },
+    {
+        "localeId":  1099,
+        "description":  "Kannadčina",
+        "code":  "kn-IN"
+    },
+    {
+        "localeId":  1100,
+        "description":  "Malajámčina",
+        "code":  "ml-IN"
+    },
+    {
+        "localeId":  1101,
+        "description":  "Assamese",
+        "code":  "as-IN"
+    },
+    {
+        "localeId":  1102,
+        "description":  "Maráthčina",
+        "code":  "mr-IN"
+    },
+    {
+        "localeId":  1103,
+        "description":  "Sanskrit",
+        "code":  "sa-IN"
+    },
+    {
+        "localeId":  1104,
+        "description":  "Mongolčina (cyrilika)",
+        "code":  "mn-MN"
+    },
+    {
+        "localeId":  1105,
+        "description":  "Tibetská ľudová republika Čínska ľudová republika",
+        "code":  "bo-CN"
+    },
+    {
+        "localeId":  1106,
+        "description":  "Waleština",
+        "code":  "cy-GB"
+    },
+    {
+        "localeId":  1107,
+        "description":  "Khmérčina",
+        "code":  "km-KH"
+    },
+    {
+        "localeId":  1108,
+        "description":  "Laoština",
+        "code":  "lo-LA"
+    },
+    {
+        "localeId":  1109,
+        "description":  "Barmský",
+        "code":  "my-MM"
+    },
+    {
+        "localeId":  1110,
+        "description":  "Galícijčina",
+        "code":  "gl-ES"
+    },
+    {
+        "localeId":  1111,
+        "description":  "Konkani",
+        "code":  "kok-IN"
+    },
+    {
+        "localeId":  1112,
+        "description":  "Manipuri",
+        "code":  "mni"
+    },
+    {
+        "localeId":  1113,
+        "description":  "Sindhi - India",
+        "code":  "sd-IN"
+    },
+    {
+        "localeId":  1114,
+        "description":  "Sýrsky",
+        "code":  "syr-SY"
+    },
+    {
+        "localeId":  1115,
+        "description":  "Sinhálski - Srí Lanka",
+        "code":  "si-LK"
+    },
+    {
+        "localeId":  1116,
+        "description":  "Cherokee - Spojené štáty americké",
+        "code":  "chr-US"
+    },
+    {
+        "localeId":  1117,
+        "description":  "Inuktitut",
+        "code":  "iu-Cans-CA"
+    },
+    {
+        "localeId":  1118,
+        "description":  "Amharská - Etiópia",
+        "code":  "am-ET"
+    },
+    {
+        "localeId":  1119,
+        "description":  "Tamazight (arabčina)",
+        "code":  "tmz"
+    },
+    {
+        "localeId":  1120,
+        "description":  "Kašmírčina (arabčina)",
+        "code":  "ks-Arab-IN"
+    },
+    {
+        "localeId":  1121,
+        "description":  "Nepálčina",
+        "code":  "ne-NP"
+    },
+    {
+        "localeId":  1122,
+        "description":  "Frisian - Holandsko",
+        "code":  "fy-NL"
+    },
+    {
+        "localeId":  1123,
+        "description":  "Pašto",
+        "code":  "ps-AF"
+    },
+    {
+        "localeId":  1124,
+        "description":  "Filipínčina",
+        "code":  "fil-PH"
+    },
+    {
+        "localeId":  1125,
+        "description":  "Divehi",
+        "code":  "dv-MV"
+    },
+    {
+        "localeId":  1126,
+        "description":  "Edo",
+        "code":  "bin-NG"
+    },
+    {
+        "localeId":  1127,
+        "description":  "Fulfulde - Nigéria",
+        "code":  "fuv-NG"
+    },
+    {
+        "localeId":  1128,
+        "description":  "Hausa - Nigéria",
+        "code":  "ha-Latn-NG"
+    },
+    {
+        "localeId":  1129,
+        "description":  "Ibibio - Nigéria",
+        "code":  "ibb-NG"
+    },
+    {
+        "localeId":  1130,
+        "description":  "Yoruba",
+        "code":  "yo-NG"
+    },
+    {
+        "localeId":  1131,
+        "description":  "Quecha - Bolívia",
+        "code":  "quz-BO"
+    },
+    {
+        "localeId":  1132,
+        "description":  "Sepedi",
+        "code":  "nso-ZA"
+    },
+    {
+        "localeId":  1136,
+        "description":  "Igbo - Nigéria",
+        "code":  "ig-NG"
+    },
+    {
+        "localeId":  1137,
+        "description":  "Kanuri - Nigéria",
+        "code":  "kr-NG"
+    },
+    {
+        "localeId":  1138,
+        "description":  "Oromo",
+        "code":  "gaz-ET"
+    },
+    {
+        "localeId":  1139,
+        "description":  "Tigrigna - Etiópia",
+        "code":  "ti-ER"
+    },
+    {
+        "localeId":  1140,
+        "description":  "Guarani - Paraguaj",
+        "code":  "gn-PY"
+    },
+    {
+        "localeId":  1141,
+        "description":  "Havajský - Spojené štáty americké",
+        "code":  "haw-US"
+    },
+    {
+        "localeId":  1142,
+        "description":  "Latinčina",
+        "code":  "la"
+    },
+    {
+        "localeId":  1143,
+        "description":  "Somálčina",
+        "code":  "so-SO"
+    },
+    {
+        "localeId":  1144,
+        "description":  "Yi",
+        "code":  "ii-CN"
+    },
+    {
+        "localeId":  1145,
+        "description":  "Papiamentu",
+        "code":  "pap-AN"
+    },
+    {
+        "localeId":  1152,
+        "description":  "Ujgur - Čína",
+        "code":  "ug-Arab-CN"
+    },
+    {
+        "localeId":  1153,
+        "description":  "Maori - Nový Zéland",
+        "code":  "mi-NZ"
+    },
+    {
+        "localeId":  2049,
+        "description":  "Arabčina - Irak",
+        "code":  "ar-IQ"
+    },
+    {
+        "localeId":  2052,
+        "description":  "Čínska ľudová republika",
+        "code":  "zh-CN"
+    },
+    {
+        "localeId":  2055,
+        "description":  "Nemčina - Švajčiarsko",
+        "code":  "de-CH"
+    },
+    {
+        "localeId":  2057,
+        "description":  "Angličtina - Veľká Británia",
+        "code":  "en-GB"
+    },
+    {
+        "localeId":  2058,
+        "description":  "Španielčina - Mexiko",
+        "code":  "es-MX"
+    },
+    {
+        "localeId":  2060,
+        "description":  "Francúzština - Belgicko",
+        "code":  "fr-BE"
+    },
+    {
+        "localeId":  2064,
+        "description":  "Taliančina - Švajčiarsko",
+        "code":  "it-CH"
+    },
+    {
+        "localeId":  2067,
+        "description":  "Holandčina - Belgicko",
+        "code":  "nl-BE"
+    },
+    {
+        "localeId":  2068,
+        "description":  "Nórčina (nynorská)",
+        "code":  "nn-NO"
+    },
+    {
+        "localeId":  2070,
+        "description":  "Portugalčina - Portugalsko",
+        "code":  "pt-PT"
+    },
+    {
+        "localeId":  2072,
+        "description":  "Rumunčina - Moldava",
+        "code":  "ro-MD"
+    },
+    {
+        "localeId":  2073,
+        "description":  "Ruština - Moldava",
+        "code":  "ru-MD"
+    },
+    {
+        "localeId":  2074,
+        "description":  "Srbčina (latinka)",
+        "code":  "sr-Latn-CS"
+    },
+    {
+        "localeId":  2077,
+        "description":  "Švédčina - Fínsko",
+        "code":  "sv-FI"
+    },
+    {
+        "localeId":  2080,
+        "description":  "Urdu - India",
+        "code":  "ur-IN"
+    },
+    {
+        "localeId":  2092,
+        "description":  "Azerbajdžančina (cyrilika)",
+        "code":  "az-Cyrl-AZ"
+    },
+    {
+        "localeId":  2108,
+        "description":  "Gaelčina (Írsko)",
+        "code":  "ga-IE"
+    },
+    {
+        "localeId":  2110,
+        "description":  "Malaj - Brunej Darussalam",
+        "code":  "ms-BN"
+    },
+    {
+        "localeId":  2115,
+        "description":  "Uzbečtina (cyrilika)",
+        "code":  "uz-Cyrl-UZ"
+    },
+    {
+        "localeId":  2117,
+        "description":  "Bengálčina (Bangladéš)",
+        "code":  "bn-BD"
+    },
+    {
+        "localeId":  2118,
+        "description":  "Pandžáb (Pakistan)",
+        "code":  "pa-PK"
+    },
+    {
+        "localeId":  2128,
+        "description":  "Mongolský (mongolský)",
+        "code":  "mn-Mong-CN"
+    },
+    {
+        "localeId":  2129,
+        "description":  "Tibetský - Bhután",
+        "code":  "bo-BT"
+    },
+    {
+        "localeId":  2137,
+        "description":  "Sindhi - Pakistan",
+        "code":  "sd-PK"
+    },
+    {
+        "localeId":  2143,
+        "description":  "Tamazight (latinčina)",
+        "code":  "tzm-Latn-DZ"
+    },
+    {
+        "localeId":  2144,
+        "description":  "Kašmír (Devanagari)",
+        "code":  "ks-Deva-IN"
+    },
+    {
+        "localeId":  2145,
+        "description":  "Nepál - India",
+        "code":  "ne-IN"
+    },
+    {
+        "localeId":  2155,
+        "description":  "Quecha - Ekvádor",
+        "code":  "quz-EC"
+    },
+    {
+        "localeId":  2163,
+        "description":  "Tigrigna - Eritrea",
+        "code":  "ti-ET"
+    },
+    {
+        "localeId":  3073,
+        "description":  "Arabčina - Egypt",
+        "code":  "ar-EG"
+    },
+    {
+        "localeId":  3076,
+        "description":  "Čínština - Hongkong SAR",
+        "code":  "zh-HK"
+    },
+    {
+        "localeId":  3079,
+        "description":  "Nemčina - Rakúsko",
+        "code":  "de-AT"
+    },
+    {
+        "localeId":  3081,
+        "description":  "Angličtina - Austrália",
+        "code":  "en-AU"
+    },
+    {
+        "localeId":  3082,
+        "description":  "Španielčina - Španielsko (moderný druh)",
+        "code":  "es-ES"
+    },
+    {
+        "localeId":  3084,
+        "description":  "Francúzština - Kanada",
+        "code":  "fr-CA"
+    },
+    {
+        "localeId":  3098,
+        "description":  "Srbčina (cyrilika)",
+        "code":  "sr-Cyrl-CS"
+    },
+    {
+        "localeId":  3179,
+        "description":  "Quecha - Peru",
+        "code":  "quz-PE"
+    },
+    {
+        "localeId":  4097,
+        "description":  "Arabčina - Líbya",
+        "code":  "ar-LY"
+    },
+    {
+        "localeId":  4100,
+        "description":  "Čínština - Singapur",
+        "code":  "zh-SG"
+    },
+    {
+        "localeId":  4103,
+        "description":  "Nemčina - Luxembursko",
+        "code":  "de-LU"
+    },
+    {
+        "localeId":  4105,
+        "description":  "Angličtina - Kanada",
+        "code":  "en-CA"
+    },
+    {
+        "localeId":  4106,
+        "description":  "Španielčina - Guatemala",
+        "code":  "es-GT"
+    },
+    {
+        "localeId":  4108,
+        "description":  "Francúzština - Švajčiarsko",
+        "code":  "fr-CH"
+    },
+    {
+        "localeId":  4122,
+        "description":  "Chorvátčina (Bosna/Hercegovina)",
+        "code":  "hr-BA"
+    },
+    {
+        "localeId":  5121,
+        "description":  "Arabčina - Alžírsko",
+        "code":  "ar-DZ"
+    },
+    {
+        "localeId":  5124,
+        "description":  "Čínština - Macao SAR",
+        "code":  "zh-MO"
+    },
+    {
+        "localeId":  5127,
+        "description":  "Nemčina - Lichtenštajnsko",
+        "code":  "de-LI"
+    },
+    {
+        "localeId":  5129,
+        "description":  "Angličtina - Nový Zéland",
+        "code":  "en-NZ"
+    },
+    {
+        "localeId":  5130,
+        "description":  "Španielčina - Kostarika",
+        "code":  "es-CR"
+    },
+    {
+        "localeId":  5132,
+        "description":  "Francúzština - Luxembursko",
+        "code":  "fr-LU"
+    },
+    {
+        "localeId":  5146,
+        "description":  "Bosniak (Bosna/Hercegovina)",
+        "code":  "bs-Latn-BA"
+    },
+    {
+        "localeId":  6145,
+        "description":  "Arabčina - Maroko",
+        "code":  "ar-MO"
+    },
+    {
+        "localeId":  6153,
+        "description":  "Angličtina - Írsko",
+        "code":  "en-IE"
+    },
+    {
+        "localeId":  6154,
+        "description":  "Španielčina - Panama",
+        "code":  "es-PA"
+    },
+    {
+        "localeId":  6156,
+        "description":  "Francúzština - Monako",
+        "code":  "fr-MC"
+    },
+    {
+        "localeId":  7169,
+        "description":  "Arabčina - Tunisko",
+        "code":  "ar-TN"
+    },
+    {
+        "localeId":  7177,
+        "description":  "Angličtina - Južná Afrika",
+        "code":  "en-ZA"
+    },
+    {
+        "localeId":  7178,
+        "description":  "Španielčina - Dominikánska republika",
+        "code":  "es-DO"
+    },
+    {
+        "localeId":  7180,
+        "description":  "Francúzština - Západná India",
+        "code":  "fr-029"
+    },
+    {
+        "localeId":  8193,
+        "description":  "Arabčina - Omán",
+        "code":  "ar-OM"
+    },
+    {
+        "localeId":  8201,
+        "description":  "Angličtina - Jamajka",
+        "code":  "en-JM"
+    },
+    {
+        "localeId":  8202,
+        "description":  "Španielčina - Venezuela",
+        "code":  "es-VE"
+    },
+    {
+        "localeId":  8204,
+        "description":  "Francúzština - Stretnutie",
+        "code":  "fr-RE"
+    },
+    {
+        "localeId":  9217,
+        "description":  "Arabčina - Jemen",
+        "code":  "ar-YE"
+    },
+    {
+        "localeId":  9225,
+        "description":  "Angličtina - Karibik",
+        "code":  "en-029"
+    },
+    {
+        "localeId":  9226,
+        "description":  "Španielčina - Kolumbia",
+        "code":  "es-CO"
+    },
+    {
+        "localeId":  9228,
+        "description":  "Francúzština - Demokratická poslankyňa Konga",
+        "code":  "fr-CG"
+    },
+    {
+        "localeId":  10241,
+        "description":  "Arabčina - Sýria",
+        "code":  "ar-SY"
+    },
+    {
+        "localeId":  10249,
+        "description":  "Angličtina - Belize",
+        "code":  "en-BZ"
+    },
+    {
+        "localeId":  10250,
+        "description":  "Španielčina - Peru",
+        "code":  "es-PE"
+    },
+    {
+        "localeId":  10252,
+        "description":  "Francúzština - Senegal",
+        "code":  "fr-SN"
+    },
+    {
+        "localeId":  11265,
+        "description":  "Arabčina - Jordánsko",
+        "code":  "ar-JO"
+    },
+    {
+        "localeId":  11273,
+        "description":  "Angličtina - Trinidad",
+        "code":  "en-TT"
+    },
+    {
+        "localeId":  11274,
+        "description":  "Španielčina - Argentína",
+        "code":  "es-AR"
+    },
+    {
+        "localeId":  11276,
+        "description":  "Francúzština - Kamerun",
+        "code":  "fr-CM"
+    },
+    {
+        "localeId":  12289,
+        "description":  "Arabčina - Libanon",
+        "code":  "ar-LB"
+    },
+    {
+        "localeId":  12297,
+        "description":  "Angličtina - Zimbabwe",
+        "code":  "en-ZW"
+    },
+    {
+        "localeId":  12298,
+        "description":  "Španielčina - Ekvádor",
+        "code":  "es-EC"
+    },
+    {
+        "localeId":  12300,
+        "description":  "Francúzština - Pobrežie Slonoviny",
+        "code":  "fr-CI"
+    },
+    {
+        "localeId":  13313,
+        "description":  "Arabčina - Kuvajt",
+        "code":  "ar-KW"
+    },
+    {
+        "localeId":  13321,
+        "description":  "Angličtina - Filipíny",
+        "code":  "en-PH"
+    },
+    {
+        "localeId":  13322,
+        "description":  "Španielčina - Čile",
+        "code":  "es-CL"
+    },
+    {
+        "localeId":  13324,
+        "description":  "Francúzština - Mali",
+        "code":  "fr-ML"
+    },
+    {
+        "localeId":  14337,
+        "description":  "Arabčina - SAE.",
+        "code":  "ar-AE"
+    },
+    {
+        "localeId":  14345,
+        "description":  "Angličtina - Indonézia",
+        "code":  "en-ID"
+    },
+    {
+        "localeId":  14346,
+        "description":  "Španielčina - Uruguaj",
+        "code":  "es-UY"
+    },
+    {
+        "localeId":  14348,
+        "description":  "Francúzština - Maroko",
+        "code":  "fr-MA"
+    },
+    {
+        "localeId":  15361,
+        "description":  "Arabčina - Bahrajn",
+        "code":  "ar-BH"
+    },
+    {
+        "localeId":  15369,
+        "description":  "Angličtina - Hong Kong SAR",
+        "code":  "en-HK"
+    },
+    {
+        "localeId":  15370,
+        "description":  "Španielčina - Paraguaj",
+        "code":  "es-PY"
+    },
+    {
+        "localeId":  15372,
+        "description":  "Francúzština - Haiti",
+        "code":  "fr-HT"
+    },
+    {
+        "localeId":  16385,
+        "description":  "Arabčina - Katar",
+        "code":  "ar-QA"
+    },
+    {
+        "localeId":  16393,
+        "description":  "Angličtina - India",
+        "code":  "en-IN"
+    },
+    {
+        "localeId":  16394,
+        "description":  "Španielčina - Bolívia",
+        "code":  "es-BO"
+    },
+    {
+        "localeId":  17417,
+        "description":  "Angličtina - Malajzia",
+        "code":  "en-MY"
+    },
+    {
+        "localeId":  17418,
+        "description":  "Španielčina - Salvádor",
+        "code":  "es-SV"
+    },
+    {
+        "localeId":  18441,
+        "description":  "Angličtina - Singapur",
+        "code":  "en-SG"
+    },
+    {
+        "localeId":  18442,
+        "description":  "Španielčina - Honduras",
+        "code":  "es-HN"
+    },
+    {
+        "localeId":  19466,
+        "description":  "Španielčina - Nikaragua",
+        "code":  "es-NI"
+    },
+    {
+        "localeId":  20490,
+        "description":  "Španielčina - Portoriko",
+        "code":  "es-PR"
+    },
+    {
+        "localeId":  21514,
+        "description":  "Španielčina - Spojené štáty americké",
+        "code":  "es-US"
+    },
+    {
+        "localeId":  58378,
+        "description":  "Španielčina - Latinská Amerika",
+        "code":  "es-419"
+    },
+    {
+        "localeId":  58380,
+        "description":  "Francúzština - Severná Afrika",
+        "code":  "fr-015"
+    }
+]
