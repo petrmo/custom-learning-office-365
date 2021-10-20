@@ -12,7 +12,7 @@ function ReplaceInvalidTexts($text)
                Replace('“','"').
                Replace('”', '"').
                Replace(' ', ' ').
-               Replace("Norwegian (Bokmål)","Norwegian")
+               Replace("å)","a")
 }
 
 function GetCachedTranslation($cache, $text, $location, $root)
