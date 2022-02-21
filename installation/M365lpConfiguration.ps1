@@ -78,7 +78,7 @@ if ($AppCatalogAdmin) {
     
   try {
     # Test that user can write values to the App Catalog
-    Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://pnp.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop 
+    Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://petrmo.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop 
   }
   catch {
     # Get the username and 

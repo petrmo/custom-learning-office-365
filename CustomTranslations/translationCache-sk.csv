@@ -1,4 +1,4 @@
-"OriginalEnglish","Translation","Locations"
+﻿"OriginalEnglish","Translation","Locations"
 "Introduction to SharePoint","Úvod do SharePointu","/docs/sss/v4/sk-sk/playlists.json;55f5e633-845f-4022-86aa-476af175a9ab;Title
 "
 "Learn about SharePoint site types","Informácie o typoch lokalít SharePoint","/docs/sss/v4/sk-sk/playlists.json;2d57566c-3eb2-4e46-9f0c-7727e075902c;Title
@@ -91,10 +91,10 @@
 "
 "Use the Planner web part","Používanie webovej časti Plánovač","/docs/sss/v4/sk-sk/assets.json;c62777e3-3b77-4b3d-aff1-590a9e9646c1;Title
 "
-"What is Yammer?","Čo je Yammer?","/docs/sss/v4/sk-sk/assets.json;ec77aaec-df07-4b28-983d-c7d1789fa537;Title
-/docs/learningpathways/v4/sk-sk/assets.json;1b0f3b3e-89ee-4b66-aac5-30def12f287c;Title
+"What is Yammer?","Čo je Yammer?","/docs/learningpathways/v4/sk-sk/assets.json;1b0f3b3e-89ee-4b66-aac5-30def12f287c;Title
 /docs/learningpathways/v4/sk-sk/assets.json;47526868-b136-40cc-a80d-c870eadd9ba5;Title
 /docs/learningpathways/v4/sk-sk/assets.json;ffc1d9c2-7513-4e64-a7c6-d901ed9c0cfe;Title
+/docs/sss/v4/sk-sk/assets.json;ec77aaec-df07-4b28-983d-c7d1789fa537;Title
 "
 "Use the Yammer web parts in SharePoint Online","Používanie webových častí Yammera v SharePointe Online","/docs/sss/v4/sk-sk/assets.json;bd3193b4-6aff-440a-878a-8c09ac310931;Title
 "
@@ -140,35 +140,35 @@
 "
 "Create and share news on your SharePoint sites","Vytváranie a zdieľanie správ na lokalitách SharePointu","/docs/sss/v4/sk-sk/assets.json;36817246-de68-4510-97cb-25abedf98d25;Title
 "
-"Office 365","Office 365","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
+"Office 365","Office 365","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;78444c91-e53b-4f0b-8c85-e5cb925c4b7f
 "
-"Windows 10","Windows 10","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
+"Windows 10","Windows 10","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;9cd68cb5-26f5-4a29-952f-3b812fcb7414
 "
-"PSTN Calling","Volanie prostredníctvom verejnej telefónnej siete (PSTN","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;f359a147-9720-4dbd-aba2-14655b4f1876
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;3bd4b767-148f-4f53-a206-b42e9f3a73cd
+"PSTN Calling","Volanie prostredníctvom verejnej telefónnej siete (PSTN","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;3bd4b767-148f-4f53-a206-b42e9f3a73cd
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;f359a147-9720-4dbd-aba2-14655b4f1876
 "
-"Meetings","Stretnutia","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;ff9a730c-f974-42af-a30b-06c7ac2d11fa
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;615f17eb-2c5b-4494-8541-4304435ca306
+"Meetings","Stretnutia","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;615f17eb-2c5b-4494-8541-4304435ca306
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;ff9a730c-f974-42af-a30b-06c7ac2d11fa
 "
-"Site Planning","Plánovanie lokality","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;53486dd0-d94e-4da8-94ec-2942faacaad6
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;e772e866-7b81-4e5c-bfad-36aa9ee98eaf
+"Site Planning","Plánovanie lokality","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;e772e866-7b81-4e5c-bfad-36aa9ee98eaf
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;53486dd0-d94e-4da8-94ec-2942faacaad6
 "
-"Site Creation","Vytvorenie lokality","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;1401f04e-3a22-491c-bf18-f37833e215a5
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;c0af989f-3c4b-4f6f-ba58-7f2a335cb445
+"Site Creation","Vytvorenie lokality","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;c0af989f-3c4b-4f6f-ba58-7f2a335cb445
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;1401f04e-3a22-491c-bf18-f37833e215a5
 "
-"Site Branding and Customization","Značky a prispôsobenie lokalít","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;80058d77-cd63-40c9-acf9-6dd8f7ffc8ac
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;2324ad0f-5577-408f-b5aa-fad1e5a8f208
+"Site Branding and Customization","Značky a prispôsobenie lokalít","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;2324ad0f-5577-408f-b5aa-fad1e5a8f208
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;80058d77-cd63-40c9-acf9-6dd8f7ffc8ac
 "
-"Site Sharing","Zdieľanie lokality","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;839db42f-02e6-4d57-93c2-b061f8075c95
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;839db42f-02e6-4d57-93c2-b061f8075c95
+"Site Sharing","Zdieľanie lokality","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;839db42f-02e6-4d57-93c2-b061f8075c95
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;839db42f-02e6-4d57-93c2-b061f8075c95
 "
-"Site Management","Správa lokality","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;41128013-96b4-442f-b44f-a30b232a2782
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;41128013-96b4-442f-b44f-a30b232a2782
+"Site Management","Správa lokality","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;41128013-96b4-442f-b44f-a30b232a2782
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;41128013-96b4-442f-b44f-a30b232a2782
 "
-"Policies","Podmienky","/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;2a5f3071-3cf3-45f0-949a-cafc07af413b
-/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;2a5f3071-3cf3-45f0-949a-cafc07af413b
+"Policies","Podmienky","/docs/learningpathways/v4/sk-sk/metadata.json;TechnologySubject;2a5f3071-3cf3-45f0-949a-cafc07af413b
+/docs/sss/v4/sk-sk/metadata.json;TechnologySubject;2a5f3071-3cf3-45f0-949a-cafc07af413b
 "
 "SharePoint Success Site","Lokalita s úspechom SharePointu","/docs/sss/v4/sk-sk/metadata.json;Category;51fa7728-5658-4a2e-b08e-e004ca0f3b46
 "
@@ -180,66 +180,66 @@
 "
 "Advanced site creation","Rozšírené vytváranie lokality","/docs/sss/v4/sk-sk/metadata.json;Subcategory;4f65a4f2-c43a-415b-b576-13744eb618b2
 "
-"HelpDesk","HelpDesk","/docs/sss/v4/sk-sk/metadata.json;Audience;27513aaf-fee5-4f27-b924-e31d865e4092
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;41779dd0-ae42-4a62-8b66-bd87c137f4ac
+"HelpDesk","HelpDesk","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;41779dd0-ae42-4a62-8b66-bd87c137f4ac
+/docs/sss/v4/sk-sk/metadata.json;Audience;27513aaf-fee5-4f27-b924-e31d865e4092
 "
-"Change Manager","Zmeniť správcu","/docs/sss/v4/sk-sk/metadata.json;Audience;4aa421d1-dc55-4b87-aa63-f1845ae49d98
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;97150537-2c2f-42f9-8bc6-73e68fda0d38
+"Change Manager","Zmeniť správcu","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;97150537-2c2f-42f9-8bc6-73e68fda0d38
+/docs/sss/v4/sk-sk/metadata.json;Audience;4aa421d1-dc55-4b87-aa63-f1845ae49d98
 "
-"Champions/Trainer","Šampióni/tréneri","/docs/sss/v4/sk-sk/metadata.json;Audience;4e425c61-28fa-4606-afe8-5df5974ec243
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;304b216c-ea4d-436c-83f8-93ba1319943b
+"Champions/Trainer","Šampióni/tréneri","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;304b216c-ea4d-436c-83f8-93ba1319943b
+/docs/sss/v4/sk-sk/metadata.json;Audience;4e425c61-28fa-4606-afe8-5df5974ec243
 "
-"Executive Assistant","Výkonný asistent","/docs/sss/v4/sk-sk/metadata.json;Audience;e43ac038-f77b-4c08-87d1-a623e2b3323e
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;d093e0b6-b9f1-4b46-877c-0a49e989ee40
+"Executive Assistant","Výkonný asistent","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;d093e0b6-b9f1-4b46-877c-0a49e989ee40
+/docs/sss/v4/sk-sk/metadata.json;Audience;e43ac038-f77b-4c08-87d1-a623e2b3323e
 "
-"VIP","VIP","/docs/sss/v4/sk-sk/metadata.json;Audience;823ca3d1-4cea-48af-8112-d8341e1514f5
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;c92ae45b-8770-48f6-8870-3ec74a310da7
+"VIP","VIP","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;c92ae45b-8770-48f6-8870-3ec74a310da7
+/docs/sss/v4/sk-sk/metadata.json;Audience;823ca3d1-4cea-48af-8112-d8341e1514f5
 "
-"End User","Koncový používateľ","/docs/sss/v4/sk-sk/metadata.json;Audience;16a2aa54-3bf8-4a75-aea5-bc70650c94b3
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;82a23325-2e47-4ff9-8747-b6e01c452b81
+"End User","Koncový používateľ","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;82a23325-2e47-4ff9-8747-b6e01c452b81
+/docs/sss/v4/sk-sk/metadata.json;Audience;16a2aa54-3bf8-4a75-aea5-bc70650c94b3
 "
-"Content Editor","Editor obsahu","/docs/sss/v4/sk-sk/metadata.json;Audience;28abd597-fc2f-4922-9fab-122b3c1bad0f
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;e22b05b1-e778-4c97-9646-b8933c209772
+"Content Editor","Editor obsahu","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;e22b05b1-e778-4c97-9646-b8933c209772
+/docs/sss/v4/sk-sk/metadata.json;Audience;28abd597-fc2f-4922-9fab-122b3c1bad0f
 "
-"Content Manager","Správca obsahu","/docs/sss/v4/sk-sk/metadata.json;Audience;45eaf6fe-7d2d-468a-9b43-091c7602d46a
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;f110eb03-e899-46a9-83be-8f507dae83c1
+"Content Manager","Správca obsahu","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;f110eb03-e899-46a9-83be-8f507dae83c1
+/docs/sss/v4/sk-sk/metadata.json;Audience;45eaf6fe-7d2d-468a-9b43-091c7602d46a
 "
-"Group Owner","Vlastník skupiny","/docs/sss/v4/sk-sk/metadata.json;Audience;28067f25-40f0-4774-9971-b079d7a29f1b
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd
+"Group Owner","Vlastník skupiny","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd
+/docs/sss/v4/sk-sk/metadata.json;Audience;28067f25-40f0-4774-9971-b079d7a29f1b
 "
-"Site Sponsor","Sponzor lokality","/docs/sss/v4/sk-sk/metadata.json;Audience;678c6d05-d27c-4a4e-afa8-532e6d1e7ab4
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;e2fce8e0-2014-4e36-81a5-0723b85958f8
+"Site Sponsor","Sponzor lokality","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;e2fce8e0-2014-4e36-81a5-0723b85958f8
+/docs/sss/v4/sk-sk/metadata.json;Audience;678c6d05-d27c-4a4e-afa8-532e6d1e7ab4
 "
-"All","Všetko","/docs/sss/v4/sk-sk/metadata.json;Audience;283b65f1-fcde-4a0a-8fa4-947a3d2bd40b
-/docs/learningpathways/v4/sk-sk/metadata.json;Audience;092298e4-2cad-4ee5-89a8-68b2ad07dc96
+"All","Všetko","/docs/learningpathways/v4/sk-sk/metadata.json;Audience;092298e4-2cad-4ee5-89a8-68b2ad07dc96
+/docs/sss/v4/sk-sk/metadata.json;Audience;283b65f1-fcde-4a0a-8fa4-947a3d2bd40b
 /src/webpart/src/webparts/common/loc/sk-sk.ts;FilterNotSet
 /src/webpart/src/webparts/common/loc/sk-sk.ts;SizeOptionAll
 /src/webpart/src/webparts/common/loc/sk-sk.ts;LayoutOptionAll
 /src/webpart/src/webparts/common/loc/sk-sk.ts;LicenseOptionAll
 "
-"Beginner","Začiatočník","/docs/sss/v4/sk-sk/metadata.json;Level;4bdd44af-d093-454d-941b-a46812de8870
-/docs/learningpathways/v4/sk-sk/metadata.json;Level;728fc9bd-0e13-4b9f-a7b5-51bd1f01c524
+"Beginner","Začiatočník","/docs/learningpathways/v4/sk-sk/metadata.json;Level;728fc9bd-0e13-4b9f-a7b5-51bd1f01c524
+/docs/sss/v4/sk-sk/metadata.json;Level;4bdd44af-d093-454d-941b-a46812de8870
 "
-"Intermediate","Stredný","/docs/sss/v4/sk-sk/metadata.json;Level;b6eb2e21-6614-4d38-abb1-260cdf83f449
-/docs/learningpathways/v4/sk-sk/metadata.json;Level;ab49a955-3814-41fa-aa33-1b2757bc28ea
+"Intermediate","Stredný","/docs/learningpathways/v4/sk-sk/metadata.json;Level;ab49a955-3814-41fa-aa33-1b2757bc28ea
+/docs/sss/v4/sk-sk/metadata.json;Level;b6eb2e21-6614-4d38-abb1-260cdf83f449
 "
-"Advanced","Pokročilý","/docs/sss/v4/sk-sk/metadata.json;Level;bd8f9e7a-0ab7-4289-b330-129fb277f738
-/docs/learningpathways/v4/sk-sk/metadata.json;Level;fbc841eb-1082-4c27-b13b-f7965947cb16
+"Advanced","Pokročilý","/docs/learningpathways/v4/sk-sk/metadata.json;Level;fbc841eb-1082-4c27-b13b-f7965947cb16
+/docs/sss/v4/sk-sk/metadata.json;Level;bd8f9e7a-0ab7-4289-b330-129fb277f738
 "
-"New","Nový","/docs/sss/v4/sk-sk/metadata.json;StatusTag;b139cdb6-7ca2-4913-a118-0d8d2b20333c
-/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;c11c485b-496d-479b-88a3-1744a7a028d7
+"New","Nový","/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;c11c485b-496d-479b-88a3-1744a7a028d7
+/docs/sss/v4/sk-sk/metadata.json;StatusTag;b139cdb6-7ca2-4913-a118-0d8d2b20333c
 "
-"Updated","Aktualizovaný","/docs/sss/v4/sk-sk/metadata.json;StatusTag;5022e586-e10c-41f6-a17e-5bbe5f213452
-/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;9d1fab25-ed9c-404e-941b-41e428d18726
+"Updated","Aktualizovaný","/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;9d1fab25-ed9c-404e-941b-41e428d18726
+/docs/sss/v4/sk-sk/metadata.json;StatusTag;5022e586-e10c-41f6-a17e-5bbe5f213452
 "
-"Retiring","Odchode","/docs/sss/v4/sk-sk/metadata.json;StatusTag;1a82c2c0-5773-41e6-a450-776c18621144
-/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;90fe6290-e063-4778-a8a1-7531c2a0a40e
+"Retiring","Odchode","/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;90fe6290-e063-4778-a8a1-7531c2a0a40e
+/docs/sss/v4/sk-sk/metadata.json;StatusTag;1a82c2c0-5773-41e6-a450-776c18621144
 "
-"Retired","Dôchodku","/docs/sss/v4/sk-sk/metadata.json;StatusTag;e5653e35-2e7f-47f6-9257-1b6be501f26e
-/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;4eb25076-b5d0-41cb-afa6-4e0c5a1c9664
+"Retired","Dôchodku","/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;4eb25076-b5d0-41cb-afa6-4e0c5a1c9664
+/docs/sss/v4/sk-sk/metadata.json;StatusTag;e5653e35-2e7f-47f6-9257-1b6be501f26e
 "
-"Beta","Beta","/docs/sss/v4/sk-sk/metadata.json;StatusTag;51237b71-fc44-4c13-b6d2-67bb054e14e5
-/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;42be48f6-1f82-4fda-a757-add2499677d9
+"Beta","Beta","/docs/learningpathways/v4/sk-sk/metadata.json;StatusTag;42be48f6-1f82-4fda-a757-add2499677d9
+/docs/sss/v4/sk-sk/metadata.json;StatusTag;51237b71-fc44-4c13-b6d2-67bb054e14e5
 "
 "Six Simple Steps - Welcome to Microsoft 365","Šesť jednoduchých krokov - Vitajte v službe Microsoft 365","/docs/learningpathways/v4/sk-sk/playlists.json;959166d8-1cb7-4315-af20-541598ebecaa;Title
 "
